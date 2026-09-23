@@ -567,3 +567,6 @@
 {"n":567,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at South stair. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":568,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south mouth. Ivo keeps the lamp for the start. 7 steps, weave on the left lane, open."}
 {"n":569,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south mouth. weave left open. 8 steps. The lamp stays for the start."}
+{"n":570,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at South stair. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":571,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair south mouth. Bess keeps the lamp for the start. 3 steps, weave on the left lane, open."}
+{"n":572,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south mouth. weave left open. 4 steps. The lamp stays for the start."}
