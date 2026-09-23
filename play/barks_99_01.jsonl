@@ -113,3 +113,6 @@
 {"n":113,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line north mouth. Nia keeps the shutter for the start. 8 steps, weave on the left lane, open."}
 {"n":114,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north mouth. weave left open. 2 steps. The shutter stays for the start."}
 {"n":115,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at High line. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":116,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north mouth. Ivo keeps the shutter for the start. 4 steps, weave on the left lane, open."}
+{"n":117,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north mouth. weave left open. 5 steps. The shutter stays for the start."}
+{"n":118,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at High line. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
