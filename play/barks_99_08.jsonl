@@ -763,3 +763,6 @@
 {"n":763,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north dock. Bess keeps the rebar for the start. 7 steps, weave on the left lane, open."}
 {"n":764,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north dock. weave left open. 8 steps. The rebar stays for the start."}
 {"n":765,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Last Light. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":766,"kind":"place","name":"Last Light north dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light north dock. Matt keeps the rebar for the start. 3 steps, weave on the left lane, open."}
+{"n":767,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north dock. weave left open. 4 steps. The rebar stays for the start."}
+{"n":768,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Last Light. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
