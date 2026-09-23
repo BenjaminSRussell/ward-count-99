@@ -404,3 +404,6 @@
 {"n":404,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light west dock. Ivo keeps the crate for the start. 2 steps, weave on the left lane, open."}
 {"n":405,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west dock. weave left open. 3 steps. The crate stays for the start."}
 {"n":406,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Last Light. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":407,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light west dock. Bess keeps the crate for the start. 5 steps, weave on the left lane, open."}
+{"n":408,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west dock. weave left open. 6 steps. The crate stays for the start."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at South stair. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
