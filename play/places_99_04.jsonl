@@ -15,3 +15,6 @@
 {"n":15,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west dock. weave left open. 5 steps. The hydrant stays for the start."}
 {"n":16,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Stockyard fence. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":17,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence west dock. Nia keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
+{"n":18,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west dock. weave left open. 8 steps. The hydrant stays for the start."}
+{"n":19,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Stockyard fence. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":20,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence west dock. Ivo keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
