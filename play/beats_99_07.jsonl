@@ -139,3 +139,6 @@
 {"n":139,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Switchyard. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":140,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east dock. Ivo keeps the shutter for the start. 8 steps, weave on the left lane, open."}
 {"n":141,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east dock. weave left open. 2 steps. The shutter stays for the start."}
+{"n":142,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Switchyard. Nobody past the east dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":143,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard east dock. Bess keeps the shutter for the start. 4 steps, weave on the left lane, open."}
+{"n":144,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east dock. weave left open. 5 steps. The shutter stays for the start."}
