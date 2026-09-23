@@ -585,3 +585,6 @@
 {"n":585,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Mast yard. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":586,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard north dock. Matt keeps the lamp for the start. 5 steps, weave on the left lane, open."}
 {"n":587,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north dock. weave left open. 6 steps. The lamp stays for the start."}
+{"n":588,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Mast yard. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":589,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard north dock. Nia keeps the lamp for the start. 8 steps, weave on the left lane, open."}
+{"n":590,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north dock. weave left open. 2 steps. The lamp stays for the start."}
