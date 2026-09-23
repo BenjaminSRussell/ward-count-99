@@ -755,3 +755,6 @@
 {"n":755,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north dock. weave left open. 6 steps. The rebar stays for the start."}
 {"n":756,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Mast yard. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":757,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north dock. Nia keeps the rebar for the start. 8 steps, weave on the left lane, open."}
+{"n":758,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north dock. weave left open. 2 steps. The rebar stays for the start."}
+{"n":759,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Mast yard. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":760,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north dock. Ivo keeps the rebar for the start. 4 steps, weave on the left lane, open."}
