@@ -658,3 +658,6 @@
 {"n":658,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at the Lot. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":659,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north mouth. Bess keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
 {"n":660,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north mouth. weave left open. 2 steps. The radio coil stays for the start."}
+{"n":661,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":662,"kind":"place","name":"Stockyard fence north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north mouth. Matt keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
+{"n":663,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north mouth. weave left open. 5 steps. The radio coil stays for the start."}
