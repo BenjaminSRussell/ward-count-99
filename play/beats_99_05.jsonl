@@ -672,3 +672,6 @@
 {"n":672,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":673,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley west dock. Nia keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
 {"n":674,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west dock. weave left open. 5 steps. The radio coil stays for the start."}
+{"n":675,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Kessler alley. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":676,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
+{"n":677,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. weave left open. 8 steps. The radio coil stays for the start."}
