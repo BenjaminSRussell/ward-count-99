@@ -136,3 +136,6 @@
 {"n":136,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west dock. Ivo keeps the shutter for the start. 6 steps, weave on the left lane, open."}
 {"n":137,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west dock. weave left open. 7 steps. The shutter stays for the start."}
 {"n":138,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Drydock. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":139,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west dock. Bess keeps the shutter for the start. 2 steps, weave on the left lane, open."}
+{"n":140,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west dock. weave left open. 3 steps. The shutter stays for the start."}
+{"n":141,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at High line. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
