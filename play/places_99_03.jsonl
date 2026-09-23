@@ -85,3 +85,6 @@
 {"n":85,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south mouth. weave left open. 6 steps. The shutter stays for the start."}
 {"n":86,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the pier. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":87,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier south mouth. Bess keeps the shutter for the start. 8 steps, weave on the left lane, open."}
+{"n":88,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south mouth. weave left open. 2 steps. The shutter stays for the start."}
+{"n":89,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Clinic roof. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":90,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof south mouth. Matt keeps the shutter for the start. 4 steps, weave on the left lane, open."}
