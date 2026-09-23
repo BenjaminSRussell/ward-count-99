@@ -280,3 +280,6 @@
 {"n":280,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south mouth. weave left open. 5 steps. The awning stays for the start."}
 {"n":281,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Drydock. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":282,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south mouth. Matt keeps the awning for the start. 7 steps, weave on the left lane, open."}
+{"n":283,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south mouth. weave left open. 8 steps. The awning stays for the start."}
+{"n":284,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at Drydock. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":285,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock south mouth. Nia keeps the awning for the start. 3 steps, weave on the left lane, open."}
