@@ -353,3 +353,6 @@
 {"n":353,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north dock. weave left open. 3 steps. The crate stays for the start."}
 {"n":354,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Ward gate. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":355,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate north dock. Bess keeps the crate for the start. 5 steps, weave on the left lane, open."}
+{"n":356,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north dock. weave left open. 6 steps. The crate stays for the start."}
+{"n":357,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Kessler alley. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":358,"kind":"place","name":"Kessler alley north dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley north dock. Matt keeps the crate for the start. 8 steps, weave on the left lane, open."}
