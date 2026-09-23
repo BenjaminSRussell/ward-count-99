@@ -808,3 +808,6 @@
 {"n":808,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at High line. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":809,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line west dock. Nia keeps the rebar for the start. 8 steps, weave on the left lane, open."}
 {"n":810,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west dock. weave left open. 2 steps. The rebar stays for the start."}
+{"n":811,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at High line. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":812,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line west dock. Ivo keeps the rebar for the start. 4 steps, weave on the left lane, open."}
+{"n":813,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west dock. weave left open. 5 steps. The rebar stays for the start."}
