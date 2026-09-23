@@ -139,3 +139,6 @@
 {"n":139,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south mouth. Bess keeps the barrel for the start. 5 steps, weave on the left lane, open."}
 {"n":140,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south mouth. weave left open. 6 steps. The barrel stays for the start."}
 {"n":141,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Kessler alley. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":142,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south mouth. Matt keeps the barrel for the start. 8 steps, weave on the left lane, open."}
+{"n":143,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south mouth. weave left open. 2 steps. The barrel stays for the start."}
+{"n":144,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Kessler alley. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
