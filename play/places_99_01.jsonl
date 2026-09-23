@@ -834,3 +834,6 @@
 {"n":834,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south mouth. weave left open. 8 steps. The plywood stays for the start."}
 {"n":835,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Stockyard fence. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":836,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence south mouth. Ivo keeps the plywood for the start. 3 steps, weave on the left lane, open."}
+{"n":837,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south mouth. weave left open. 4 steps. The plywood stays for the start."}
+{"n":838,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Stockyard fence. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":839,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence south mouth. Bess keeps the plywood for the start. 6 steps, weave on the left lane, open."}
