@@ -86,3 +86,6 @@
 {"n":86,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard north mouth. Matt keeps the shutter for the start. 2 steps, weave on the left lane, open."}
 {"n":87,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north mouth. weave left open. 3 steps. The shutter stays for the start."}
 {"n":88,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Switchyard. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":89,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard north mouth. Nia keeps the shutter for the start. 5 steps, weave on the left lane, open."}
+{"n":90,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north mouth. weave left open. 6 steps. The shutter stays for the start."}
+{"n":91,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Switchyard. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
