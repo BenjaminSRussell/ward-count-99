@@ -238,3 +238,6 @@
 {"n":238,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at the Underpass. Nobody past the east dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":239,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass east dock. Bess keeps the awning for the start. 2 steps, weave on the left lane, open."}
 {"n":240,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east dock. weave left open. 3 steps. The awning stays for the start."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Mast yard. Nobody past the east dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":242,"kind":"place","name":"Mast yard east dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard east dock. Matt keeps the awning for the start. 5 steps, weave on the left lane, open."}
+{"n":243,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east dock. weave left open. 6 steps. The awning stays for the start."}
