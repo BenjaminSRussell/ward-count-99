@@ -749,3 +749,6 @@
 {"n":749,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south mouth. weave left open. 6 steps. The rebar stays for the start."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the pier. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":751,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south mouth. Bess keeps the rebar for the start. 8 steps, weave on the left lane, open."}
+{"n":752,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south mouth. weave left open. 2 steps. The rebar stays for the start."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Clinic roof. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":754,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof south mouth. Matt keeps the rebar for the start. 4 steps, weave on the left lane, open."}
