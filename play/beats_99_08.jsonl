@@ -126,3 +126,6 @@
 {"n":126,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at the pier. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":127,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north dock. Bess keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
 {"n":128,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north dock. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":129,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Clinic roof. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":130,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof north dock. Matt keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
+{"n":131,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north dock. weave left open. 5 steps. The hydrant stays for the start."}
