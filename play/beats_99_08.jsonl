@@ -507,3 +507,6 @@
 {"n":507,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at High line. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":508,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line north dock. Ivo keeps the crate for the start. 4 steps, weave on the left lane, open."}
 {"n":509,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north dock. weave left open. 5 steps. The crate stays for the start."}
+{"n":510,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at High line. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":511,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north dock. Bess keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":512,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. weave left open. 8 steps. The crate stays for the start."}
