@@ -541,3 +541,6 @@
 {"n":541,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the Underpass. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":542,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west dock. Matt keeps the lamp for the start. 7 steps, weave on the left lane, open."}
 {"n":543,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west dock. weave left open. 8 steps. The lamp stays for the start."}
+{"n":544,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at the Underpass. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":545,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass west dock. Nia keeps the lamp for the start. 3 steps, weave on the left lane, open."}
+{"n":546,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west dock. weave left open. 4 steps. The lamp stays for the start."}
