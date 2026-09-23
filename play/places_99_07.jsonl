@@ -405,3 +405,6 @@
 {"n":405,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east dock. weave left open. 7 steps. The drum stays for the start."}
 {"n":406,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at the Underpass. Nobody past the east dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":407,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass east dock. Bess keeps the drum for the start. 2 steps, weave on the left lane, open."}
+{"n":408,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east dock. weave left open. 3 steps. The drum stays for the start."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Mast yard. Nobody past the east dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":410,"kind":"place","name":"Mast yard east dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard east dock. Matt keeps the drum for the start. 5 steps, weave on the left lane, open."}
