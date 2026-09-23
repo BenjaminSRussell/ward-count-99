@@ -474,3 +474,6 @@
 {"n":474,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north mouth. weave left open. 5 steps. The badge door stays for the start."}
 {"n":475,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Kessler alley. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":476,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley north mouth. Ivo keeps the badge door for the start. 7 steps, weave on the left lane, open."}
+{"n":477,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north mouth. weave left open. 8 steps. The badge door stays for the start."}
+{"n":478,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Kessler alley. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":479,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley north mouth. Bess keeps the badge door for the start. 3 steps, weave on the left lane, open."}
