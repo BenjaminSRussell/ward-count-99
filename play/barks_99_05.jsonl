@@ -994,3 +994,6 @@
 {"n":994,"kind":"place","name":"Ward gate east dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east dock. Matt keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
 {"n":995,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east dock. weave left open. 4 steps. The hydrant stays for the start."}
 {"n":996,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Ward gate. Nobody past the east dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":997,"kind":"place","name":"Ward gate east dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate east dock. Nia keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
+{"n":998,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east dock. weave left open. 7 steps. The hydrant stays for the start."}
+{"n":999,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Ward gate. Nobody past the east dock. We start in 8 steps. Weave on the left lane, open."}
