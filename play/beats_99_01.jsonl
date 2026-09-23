@@ -256,3 +256,6 @@
 {"n":256,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at Switchyard. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":257,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard north mouth. Nia keeps the awning for the start. 5 steps, weave on the left lane, open."}
 {"n":258,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north mouth. weave left open. 6 steps. The awning stays for the start."}
+{"n":259,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Switchyard. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":260,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard north mouth. Ivo keeps the awning for the start. 8 steps, weave on the left lane, open."}
+{"n":261,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north mouth. weave left open. 2 steps. The awning stays for the start."}
