@@ -7,3 +7,6 @@
 {"n":7,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south mouth. weave left open. 5 steps. The shutter stays for the start."}
 {"n":8,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":9,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence south mouth. Nia keeps the shutter for the start. 7 steps, weave on the left lane, open."}
+{"n":10,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south mouth. weave left open. 8 steps. The shutter stays for the start."}
+{"n":11,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Stockyard fence. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":12,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south mouth. Ivo keeps the shutter for the start. 3 steps, weave on the left lane, open."}
