@@ -676,3 +676,6 @@
 {"n":676,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north dock. Ivo keeps the lamp for the start. 4 steps, weave on the left lane, open."}
 {"n":677,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north dock. weave left open. 5 steps. The lamp stays for the start."}
 {"n":678,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at High line. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":679,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north dock. Bess keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":680,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. weave left open. 8 steps. The lamp stays for the start."}
+{"n":681,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Ward gate. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
