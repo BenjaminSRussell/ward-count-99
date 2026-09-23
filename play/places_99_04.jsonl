@@ -939,3 +939,6 @@
 {"n":939,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west dock. weave left open. 5 steps. The rope stays for the start."}
 {"n":940,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Clinic roof. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":941,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Clinic roof west dock. Nia keeps the rope for the start. 7 steps, weave on the left lane, open."}
+{"n":942,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west dock. weave left open. 8 steps. The rope stays for the start."}
+{"n":943,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Clinic roof. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":944,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof west dock. Ivo keeps the rope for the start. 3 steps, weave on the left lane, open."}
