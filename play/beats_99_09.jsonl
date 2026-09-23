@@ -224,3 +224,6 @@
 {"n":224,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at Stockyard fence. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":225,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north dock. Nia keeps the awning for the start. 7 steps, weave on the left lane, open."}
 {"n":226,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north dock. weave left open. 8 steps. The awning stays for the start."}
+{"n":227,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Stockyard fence. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":228,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence north dock. Ivo keeps the awning for the start. 3 steps, weave on the left lane, open."}
+{"n":229,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north dock. weave left open. 4 steps. The awning stays for the start."}
