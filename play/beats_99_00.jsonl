@@ -152,3 +152,6 @@
 {"n":152,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":153,"kind":"place","name":"Stockyard fence north mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north mouth. Nia keeps the barrel for the start. 7 steps, weave on the left lane, open."}
 {"n":154,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north mouth. weave left open. 8 steps. The barrel stays for the start."}
+{"n":155,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Stockyard fence. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":156,"kind":"place","name":"Stockyard fence north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north mouth. Ivo keeps the barrel for the start. 3 steps, weave on the left lane, open."}
+{"n":157,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north mouth. weave left open. 4 steps. The barrel stays for the start."}
