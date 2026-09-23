@@ -880,3 +880,6 @@
 {"n":880,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Last Light. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":881,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Last Light south mouth. Nia keeps the plywood for the start. 6 steps, weave on the left lane, open."}
 {"n":882,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south mouth. weave left open. 7 steps. The plywood stays for the start."}
+{"n":883,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Last Light. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":884,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light south mouth. Ivo keeps the plywood for the start. 2 steps, weave on the left lane, open."}
+{"n":885,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south mouth. weave left open. 3 steps. The plywood stays for the start."}
