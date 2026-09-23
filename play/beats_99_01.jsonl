@@ -118,3 +118,6 @@
 {"n":118,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at High line. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":119,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north mouth. Bess keeps the shutter for the start. 7 steps, weave on the left lane, open."}
 {"n":120,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north mouth. weave left open. 8 steps. The shutter stays for the start."}
+{"n":121,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Ward gate. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":122,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north mouth. Matt keeps the awning for the start. 3 steps, weave on the left lane, open."}
+{"n":123,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north mouth. weave left open. 4 steps. The awning stays for the start."}
