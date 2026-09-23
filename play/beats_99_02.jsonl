@@ -354,3 +354,6 @@
 {"n":354,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Mall court. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":355,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court south mouth. Bess keeps the crate for the start. 4 steps, weave on the left lane, open."}
 {"n":356,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south mouth. weave left open. 5 steps. The crate stays for the start."}
+{"n":357,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the Underpass. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":358,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass south mouth. Matt keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":359,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south mouth. weave left open. 8 steps. The crate stays for the start."}
