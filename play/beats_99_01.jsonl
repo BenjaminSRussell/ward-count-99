@@ -868,3 +868,6 @@
 {"n":868,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Mast yard. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":869,"kind":"place","name":"Mast yard south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south mouth. Nia keeps the plywood for the start. 8 steps, weave on the left lane, open."}
 {"n":870,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south mouth. weave left open. 2 steps. The plywood stays for the start."}
+{"n":871,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Mast yard. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":872,"kind":"place","name":"Mast yard south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south mouth. Ivo keeps the plywood for the start. 4 steps, weave on the left lane, open."}
+{"n":873,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south mouth. weave left open. 5 steps. The plywood stays for the start."}
