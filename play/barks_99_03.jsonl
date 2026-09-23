@@ -750,3 +750,6 @@
 {"n":750,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier south mouth. Matt keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
 {"n":751,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south mouth. weave left open. 7 steps. The radio coil stays for the start."}
 {"n":752,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at the pier. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":753,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier south mouth. Nia keeps the radio coil for the start. 2 steps, weave on the left lane, open."}
+{"n":754,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south mouth. weave left open. 3 steps. The radio coil stays for the start."}
+{"n":755,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at the pier. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
