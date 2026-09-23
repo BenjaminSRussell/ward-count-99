@@ -74,3 +74,6 @@
 {"n":74,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at South stair. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":75,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south mouth. Bess keeps the shutter for the start. 3 steps, weave on the left lane, open."}
 {"n":76,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south mouth. weave left open. 4 steps. The shutter stays for the start."}
+{"n":77,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at the pier. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":78,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier south mouth. Matt keeps the shutter for the start. 6 steps, weave on the left lane, open."}
+{"n":79,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south mouth. weave left open. 7 steps. The shutter stays for the start."}
