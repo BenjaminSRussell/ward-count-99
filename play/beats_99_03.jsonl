@@ -863,3 +863,6 @@
 {"n":863,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Mall court. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":864,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the plywood for the start. 8 steps, weave on the left lane, open."}
 {"n":865,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. weave left open. 2 steps. The plywood stays for the start."}
+{"n":866,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Mall court. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":867,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west dock. Bess keeps the plywood for the start. 4 steps, weave on the left lane, open."}
+{"n":868,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west dock. weave left open. 5 steps. The plywood stays for the start."}
