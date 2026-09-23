@@ -795,3 +795,6 @@
 {"n":795,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south mouth. weave left open. 4 steps. The plywood stays for the start."}
 {"n":796,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Ward gate. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":797,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate south mouth. Nia keeps the plywood for the start. 6 steps, weave on the left lane, open."}
+{"n":798,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south mouth. weave left open. 7 steps. The plywood stays for the start."}
+{"n":799,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Ward gate. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":800,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate south mouth. Ivo keeps the plywood for the start. 2 steps, weave on the left lane, open."}
