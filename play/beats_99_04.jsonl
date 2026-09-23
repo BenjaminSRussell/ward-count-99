@@ -673,3 +673,6 @@
 {"n":673,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at the Lot. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":674,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot west dock. Matt keeps the rebar for the start. 6 steps, weave on the left lane, open."}
 {"n":675,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west dock. weave left open. 7 steps. The rebar stays for the start."}
+{"n":676,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at the Lot. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":677,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot west dock. Nia keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":678,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west dock. weave left open. 3 steps. The rebar stays for the start."}
