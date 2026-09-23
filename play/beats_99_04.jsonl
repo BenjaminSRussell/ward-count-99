@@ -364,3 +364,6 @@
 {"n":364,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Mall court. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":365,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court west dock. Nia keeps the crate for the start. 5 steps, weave on the left lane, open."}
 {"n":366,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west dock. weave left open. 6 steps. The crate stays for the start."}
+{"n":367,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Mall court. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":368,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the crate for the start. 8 steps, weave on the left lane, open."}
+{"n":369,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. weave left open. 2 steps. The crate stays for the start."}
