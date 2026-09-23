@@ -784,3 +784,6 @@
 {"n":784,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock south mouth. Ivo keeps the rebar for the start. 6 steps, weave on the left lane, open."}
 {"n":785,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south mouth. weave left open. 7 steps. The rebar stays for the start."}
 {"n":786,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Drydock. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":787,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock south mouth. Bess keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":788,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south mouth. weave left open. 3 steps. The rebar stays for the start."}
+{"n":789,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at High line. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
