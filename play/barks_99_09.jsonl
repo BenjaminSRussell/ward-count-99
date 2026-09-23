@@ -312,3 +312,6 @@
 {"n":312,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the awning for the start. 3 steps, weave on the left lane, open."}
 {"n":313,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north dock. weave left open. 4 steps. The awning stays for the start."}
 {"n":314,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Clinic roof. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":315,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof north dock. Bess keeps the awning for the start. 6 steps, weave on the left lane, open."}
+{"n":316,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north dock. weave left open. 7 steps. The awning stays for the start."}
+{"n":317,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Switchyard. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
