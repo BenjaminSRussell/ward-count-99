@@ -155,3 +155,6 @@
 {"n":155,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north dock. weave left open. 8 steps. The hydrant stays for the start."}
 {"n":156,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Drydock. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":157,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north dock. Nia keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
+{"n":158,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north dock. weave left open. 4 steps. The hydrant stays for the start."}
+{"n":159,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Drydock. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":160,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north dock. Ivo keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
