@@ -271,3 +271,6 @@
 {"n":271,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north mouth. weave left open. 6 steps. The barrel stays for the start."}
 {"n":272,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at High line. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":273,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line north mouth. Nia keeps the barrel for the start. 8 steps, weave on the left lane, open."}
+{"n":274,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north mouth. weave left open. 2 steps. The barrel stays for the start."}
+{"n":275,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at High line. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":276,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north mouth. Ivo keeps the barrel for the start. 4 steps, weave on the left lane, open."}
