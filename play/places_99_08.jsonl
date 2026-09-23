@@ -713,3 +713,6 @@
 {"n":713,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north dock. weave left open. 6 steps. The rebar stays for the start."}
 {"n":714,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Lot. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":715,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot north dock. Bess keeps the rebar for the start. 8 steps, weave on the left lane, open."}
+{"n":716,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north dock. weave left open. 2 steps. The rebar stays for the start."}
+{"n":717,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":718,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence north dock. Matt keeps the rebar for the start. 4 steps, weave on the left lane, open."}
