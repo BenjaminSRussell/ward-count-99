@@ -957,3 +957,6 @@
 {"n":957,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west dock. weave left open. 2 steps. The rope stays for the start."}
 {"n":958,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Switchyard. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":959,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west dock. Bess keeps the rope for the start. 4 steps, weave on the left lane, open."}
+{"n":960,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west dock. weave left open. 5 steps. The rope stays for the start."}
+{"n":961,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Drydock. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":962,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock west dock. Matt keeps the rope for the start. 7 steps, weave on the left lane, open."}
