@@ -713,3 +713,6 @@
 {"n":713,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west dock. Nia keeps the rebar for the start. 3 steps, weave on the left lane, open."}
 {"n":714,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west dock. weave left open. 4 steps. The rebar stays for the start."}
 {"n":715,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the Underpass. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":716,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west dock. Ivo keeps the rebar for the start. 6 steps, weave on the left lane, open."}
+{"n":717,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west dock. weave left open. 7 steps. The rebar stays for the start."}
+{"n":718,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Underpass. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
