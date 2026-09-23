@@ -459,3 +459,6 @@
 {"n":459,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west dock. weave left open. 8 steps. The crate stays for the start."}
 {"n":460,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Drydock. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":461,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock west dock. Nia keeps the crate for the start. 3 steps, weave on the left lane, open."}
+{"n":462,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west dock. weave left open. 4 steps. The crate stays for the start."}
+{"n":463,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Drydock. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":464,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock west dock. Ivo keeps the crate for the start. 6 steps, weave on the left lane, open."}
