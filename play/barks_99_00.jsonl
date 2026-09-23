@@ -918,3 +918,6 @@
 {"n":918,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard north mouth. Matt keeps the rope for the start. 2 steps, weave on the left lane, open."}
 {"n":919,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north mouth. weave left open. 3 steps. The rope stays for the start."}
 {"n":920,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Switchyard. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":921,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Switchyard north mouth. Nia keeps the rope for the start. 5 steps, weave on the left lane, open."}
+{"n":922,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north mouth. weave left open. 6 steps. The rope stays for the start."}
+{"n":923,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Switchyard. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
