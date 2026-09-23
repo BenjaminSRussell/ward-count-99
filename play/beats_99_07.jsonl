@@ -1,0 +1,3 @@
+{"n":1,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Ward gate. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":2,"kind":"place","name":"Ward gate east dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east dock. Matt keeps the shutter for the start. 3 steps, weave on the left lane, open."}
+{"n":3,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east dock. weave left open. 4 steps. The shutter stays for the start."}
