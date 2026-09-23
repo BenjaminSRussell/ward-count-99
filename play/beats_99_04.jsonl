@@ -706,3 +706,6 @@
 {"n":706,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Mall court. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":707,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west dock. Bess keeps the rebar for the start. 4 steps, weave on the left lane, open."}
 {"n":708,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west dock. weave left open. 5 steps. The rebar stays for the start."}
+{"n":709,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at the Underpass. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":710,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass west dock. Matt keeps the rebar for the start. 7 steps, weave on the left lane, open."}
+{"n":711,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west dock. weave left open. 8 steps. The rebar stays for the start."}
