@@ -292,3 +292,6 @@
 {"n":292,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Drydock. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":293,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west dock. Nia keeps the barrel for the start. 3 steps, weave on the left lane, open."}
 {"n":294,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west dock. weave left open. 4 steps. The barrel stays for the start."}
+{"n":295,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Drydock. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":296,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west dock. Ivo keeps the barrel for the start. 6 steps, weave on the left lane, open."}
+{"n":297,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west dock. weave left open. 7 steps. The barrel stays for the start."}
