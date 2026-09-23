@@ -70,3 +70,6 @@
 {"n":70,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north dock. weave left open. 6 steps. The shutter stays for the start."}
 {"n":71,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Mall court. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":72,"kind":"place","name":"Mall court north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court north dock. Ivo keeps the shutter for the start. 8 steps, weave on the left lane, open."}
+{"n":73,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north dock. weave left open. 2 steps. The shutter stays for the start."}
+{"n":74,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Mall court. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":75,"kind":"place","name":"Mall court north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north dock. Bess keeps the shutter for the start. 4 steps, weave on the left lane, open."}
