@@ -935,3 +935,6 @@
 {"n":935,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard south mouth. Bess keeps the plywood for the start. 4 steps, weave on the left lane, open."}
 {"n":936,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south mouth. weave left open. 5 steps. The plywood stays for the start."}
 {"n":937,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Drydock. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":938,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock south mouth. Matt keeps the plywood for the start. 7 steps, weave on the left lane, open."}
+{"n":939,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south mouth. weave left open. 8 steps. The plywood stays for the start."}
+{"n":940,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Drydock. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
