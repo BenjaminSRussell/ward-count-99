@@ -685,3 +685,6 @@
 {"n":685,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court south mouth. Nia keeps the rebar for the start. 5 steps, weave on the left lane, open."}
 {"n":686,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south mouth. weave left open. 6 steps. The rebar stays for the start."}
 {"n":687,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Mall court. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":688,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court south mouth. Ivo keeps the rebar for the start. 8 steps, weave on the left lane, open."}
+{"n":689,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south mouth. weave left open. 2 steps. The rebar stays for the start."}
+{"n":690,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Mall court. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
