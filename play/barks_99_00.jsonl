@@ -432,3 +432,6 @@
 {"n":432,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock north mouth. Ivo keeps the crate for the start. 6 steps, weave on the left lane, open."}
 {"n":433,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north mouth. weave left open. 7 steps. The crate stays for the start."}
 {"n":434,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Drydock. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":435,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock north mouth. Bess keeps the crate for the start. 2 steps, weave on the left lane, open."}
+{"n":436,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north mouth. weave left open. 3 steps. The crate stays for the start."}
+{"n":437,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at High line. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
