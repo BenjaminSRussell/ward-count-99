@@ -597,3 +597,6 @@
 {"n":597,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof south mouth. Nia keeps the badge door for the start. 7 steps, weave on the left lane, open."}
 {"n":598,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south mouth. weave left open. 8 steps. The badge door stays for the start."}
 {"n":599,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Clinic roof. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":600,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof south mouth. Ivo keeps the badge door for the start. 3 steps, weave on the left lane, open."}
+{"n":601,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south mouth. weave left open. 4 steps. The badge door stays for the start."}
+{"n":602,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Clinic roof. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
