@@ -906,3 +906,6 @@
 {"n":906,"kind":"place","name":"Mast yard east dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard east dock. Matt keeps the rope for the start. 5 steps, weave on the left lane, open."}
 {"n":907,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east dock. weave left open. 6 steps. The rope stays for the start."}
 {"n":908,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Mast yard. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":909,"kind":"place","name":"Mast yard east dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard east dock. Nia keeps the rope for the start. 8 steps, weave on the left lane, open."}
+{"n":910,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east dock. weave left open. 2 steps. The rope stays for the start."}
+{"n":911,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Mast yard. Nobody past the east dock. We start in 3 steps. Weave on the left lane, open."}
