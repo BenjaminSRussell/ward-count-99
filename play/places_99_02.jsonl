@@ -668,3 +668,6 @@
 {"n":668,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south mouth. weave left open. 2 steps. The rebar stays for the start."}
 {"n":669,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":670,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south mouth. Matt keeps the rebar for the start. 4 steps, weave on the left lane, open."}
+{"n":671,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south mouth. weave left open. 5 steps. The rebar stays for the start."}
+{"n":672,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":673,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence south mouth. Nia keeps the rebar for the start. 7 steps, weave on the left lane, open."}
