@@ -584,3 +584,6 @@
 {"n":584,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair west dock. Ivo keeps the lamp for the start. 7 steps, weave on the left lane, open."}
 {"n":585,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west dock. weave left open. 8 steps. The lamp stays for the start."}
 {"n":586,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at South stair. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":587,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair west dock. Bess keeps the lamp for the start. 3 steps, weave on the left lane, open."}
+{"n":588,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west dock. weave left open. 4 steps. The lamp stays for the start."}
+{"n":589,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the pier. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
