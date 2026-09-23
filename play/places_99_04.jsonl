@@ -513,3 +513,6 @@
 {"n":513,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west dock. weave left open. 6 steps. The lamp stays for the start."}
 {"n":514,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at the Lot. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":515,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west dock. Bess keeps the lamp for the start. 8 steps, weave on the left lane, open."}
+{"n":516,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west dock. weave left open. 2 steps. The lamp stays for the start."}
+{"n":517,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":518,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence west dock. Matt keeps the lamp for the start. 4 steps, weave on the left lane, open."}
