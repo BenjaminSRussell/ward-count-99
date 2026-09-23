@@ -558,3 +558,6 @@
 {"n":558,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Last Light. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":559,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light south mouth. Bess keeps the lamp for the start. 5 steps, weave on the left lane, open."}
 {"n":560,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south mouth. weave left open. 6 steps. The lamp stays for the start."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at South stair. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":562,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair south mouth. Matt keeps the lamp for the start. 8 steps, weave on the left lane, open."}
+{"n":563,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south mouth. weave left open. 2 steps. The lamp stays for the start."}
