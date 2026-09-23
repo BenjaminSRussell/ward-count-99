@@ -514,3 +514,6 @@
 {"n":514,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north dock. Matt keeps the lamp for the start. 3 steps, weave on the left lane, open."}
 {"n":515,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north dock. weave left open. 4 steps. The lamp stays for the start."}
 {"n":516,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Ward gate. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":517,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate north dock. Nia keeps the lamp for the start. 6 steps, weave on the left lane, open."}
+{"n":518,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north dock. weave left open. 7 steps. The lamp stays for the start."}
+{"n":519,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Ward gate. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
