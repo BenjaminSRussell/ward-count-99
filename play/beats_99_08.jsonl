@@ -639,3 +639,6 @@
 {"n":639,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Clinic roof. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":640,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the lamp for the start. 3 steps, weave on the left lane, open."}
 {"n":641,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north dock. weave left open. 4 steps. The lamp stays for the start."}
+{"n":642,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Clinic roof. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":643,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof north dock. Bess keeps the lamp for the start. 6 steps, weave on the left lane, open."}
+{"n":644,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north dock. weave left open. 7 steps. The lamp stays for the start."}
