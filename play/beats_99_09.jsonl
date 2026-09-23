@@ -467,3 +467,6 @@
 {"n":467,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at the pier. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":468,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north dock. Ivo keeps the drum for the start. 5 steps, weave on the left lane, open."}
 {"n":469,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north dock. weave left open. 6 steps. The drum stays for the start."}
+{"n":470,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at the pier. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":471,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north dock. Bess keeps the drum for the start. 8 steps, weave on the left lane, open."}
+{"n":472,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north dock. weave left open. 2 steps. The drum stays for the start."}
