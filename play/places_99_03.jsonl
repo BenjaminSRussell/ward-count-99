@@ -127,3 +127,6 @@
 {"n":127,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south mouth. weave left open. 6 steps. The shutter stays for the start."}
 {"n":128,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at High line. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":129,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line south mouth. Nia keeps the shutter for the start. 8 steps, weave on the left lane, open."}
+{"n":130,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south mouth. weave left open. 2 steps. The shutter stays for the start."}
+{"n":131,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at High line. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":132,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line south mouth. Ivo keeps the shutter for the start. 4 steps, weave on the left lane, open."}
