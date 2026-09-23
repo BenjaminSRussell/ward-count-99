@@ -309,3 +309,6 @@
 {"n":309,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot north mouth. Nia keeps the crate for the start. 2 steps, weave on the left lane, open."}
 {"n":310,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north mouth. weave left open. 3 steps. The crate stays for the start."}
 {"n":311,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at the Lot. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":312,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot north mouth. Ivo keeps the crate for the start. 5 steps, weave on the left lane, open."}
+{"n":313,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north mouth. weave left open. 6 steps. The crate stays for the start."}
+{"n":314,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at the Lot. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
