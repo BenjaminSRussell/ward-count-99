@@ -321,3 +321,6 @@
 {"n":321,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley south mouth. Nia keeps the drum for the start. 4 steps, weave on the left lane, open."}
 {"n":322,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south mouth. weave left open. 5 steps. The drum stays for the start."}
 {"n":323,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Kessler alley. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":324,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley south mouth. Ivo keeps the drum for the start. 7 steps, weave on the left lane, open."}
+{"n":325,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south mouth. weave left open. 8 steps. The drum stays for the start."}
+{"n":326,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Kessler alley. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
