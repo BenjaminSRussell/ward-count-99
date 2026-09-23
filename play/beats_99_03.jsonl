@@ -839,3 +839,6 @@
 {"n":839,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at the Lot. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":840,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot west dock. Ivo keeps the plywood for the start. 5 steps, weave on the left lane, open."}
 {"n":841,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west dock. weave left open. 6 steps. The plywood stays for the start."}
+{"n":842,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at the Lot. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":843,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west dock. Bess keeps the plywood for the start. 8 steps, weave on the left lane, open."}
+{"n":844,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west dock. weave left open. 2 steps. The plywood stays for the start."}
