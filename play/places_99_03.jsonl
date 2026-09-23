@@ -292,3 +292,6 @@
 {"n":292,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south mouth. weave left open. 3 steps. The awning stays for the start."}
 {"n":293,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at High line. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":294,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line south mouth. Matt keeps the awning for the start. 5 steps, weave on the left lane, open."}
+{"n":295,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south mouth. weave left open. 6 steps. The awning stays for the start."}
+{"n":296,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at High line. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":297,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line south mouth. Nia keeps the awning for the start. 8 steps, weave on the left lane, open."}
