@@ -353,3 +353,6 @@
 {"n":353,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley east dock. Nia keeps the drum for the start. 4 steps, weave on the left lane, open."}
 {"n":354,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east dock. weave left open. 5 steps. The drum stays for the start."}
 {"n":355,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Kessler alley. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":356,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley east dock. Ivo keeps the drum for the start. 7 steps, weave on the left lane, open."}
+{"n":357,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east dock. weave left open. 8 steps. The drum stays for the start."}
+{"n":358,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Kessler alley. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
