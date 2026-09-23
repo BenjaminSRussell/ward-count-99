@@ -710,3 +710,6 @@
 {"n":710,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":711,"kind":"place","name":"Kessler alley north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north dock. Bess keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
 {"n":712,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north dock. weave left open. 4 steps. The radio coil stays for the start."}
+{"n":713,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at the Lot. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":714,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot north dock. Matt keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
+{"n":715,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north dock. weave left open. 7 steps. The radio coil stays for the start."}
