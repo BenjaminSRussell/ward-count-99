@@ -277,3 +277,6 @@
 {"n":277,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north mouth. weave left open. 5 steps. The barrel stays for the start."}
 {"n":278,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at High line. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":279,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north mouth. Bess keeps the barrel for the start. 7 steps, weave on the left lane, open."}
+{"n":280,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north mouth. weave left open. 8 steps. The barrel stays for the start."}
+{"n":281,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Ward gate. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":282,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north mouth. Matt keeps the crate for the start. 3 steps, weave on the left lane, open."}
