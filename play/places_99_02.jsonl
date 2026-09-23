@@ -269,3 +269,6 @@
 {"n":269,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south mouth. weave left open. 2 steps. The barrel stays for the start."}
 {"n":270,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Switchyard. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":271,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south mouth. Bess keeps the barrel for the start. 4 steps, weave on the left lane, open."}
+{"n":272,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south mouth. weave left open. 5 steps. The barrel stays for the start."}
+{"n":273,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Drydock. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":274,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock south mouth. Matt keeps the barrel for the start. 7 steps, weave on the left lane, open."}
