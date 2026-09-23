@@ -569,3 +569,6 @@
 {"n":569,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north dock. weave left open. 2 steps. The lamp stays for the start."}
 {"n":570,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mall court. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":571,"kind":"place","name":"Mall court north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court north dock. Bess keeps the lamp for the start. 4 steps, weave on the left lane, open."}
+{"n":572,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north dock. weave left open. 5 steps. The lamp stays for the start."}
+{"n":573,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the Underpass. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":574,"kind":"place","name":"the Underpass north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north dock. Matt keeps the lamp for the start. 7 steps, weave on the left lane, open."}
