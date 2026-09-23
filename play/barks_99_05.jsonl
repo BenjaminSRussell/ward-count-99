@@ -553,3 +553,6 @@
 {"n":553,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west dock. Nia keeps the badge door for the start. 3 steps, weave on the left lane, open."}
 {"n":554,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west dock. weave left open. 4 steps. The badge door stays for the start."}
 {"n":555,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at the Underpass. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":556,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west dock. Ivo keeps the badge door for the start. 6 steps, weave on the left lane, open."}
+{"n":557,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west dock. weave left open. 7 steps. The badge door stays for the start."}
+{"n":558,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at the Underpass. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
