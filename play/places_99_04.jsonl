@@ -801,3 +801,6 @@
 {"n":801,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west dock. weave left open. 7 steps. The rebar stays for the start."}
 {"n":802,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Drydock. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":803,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock west dock. Bess keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":804,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west dock. weave left open. 3 steps. The rebar stays for the start."}
+{"n":805,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at High line. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":806,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line west dock. Matt keeps the rebar for the start. 5 steps, weave on the left lane, open."}
