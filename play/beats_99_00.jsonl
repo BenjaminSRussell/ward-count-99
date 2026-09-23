@@ -815,3 +815,6 @@
 {"n":815,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at the Lot. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":816,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north mouth. Ivo keeps the rope for the start. 5 steps, weave on the left lane, open."}
 {"n":817,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north mouth. weave left open. 6 steps. The rope stays for the start."}
+{"n":818,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at the Lot. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":819,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north mouth. Bess keeps the rope for the start. 8 steps, weave on the left lane, open."}
+{"n":820,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north mouth. weave left open. 2 steps. The rope stays for the start."}
