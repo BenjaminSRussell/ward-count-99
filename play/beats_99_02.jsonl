@@ -729,3 +729,6 @@
 {"n":729,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at South stair. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":730,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair south mouth. Matt keeps the rebar for the start. 8 steps, weave on the left lane, open."}
 {"n":731,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south mouth. weave left open. 2 steps. The rebar stays for the start."}
+{"n":732,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at South stair. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":733,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair south mouth. Nia keeps the rebar for the start. 4 steps, weave on the left lane, open."}
+{"n":734,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south mouth. weave left open. 5 steps. The rebar stays for the start."}
