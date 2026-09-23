@@ -530,3 +530,6 @@
 {"n":530,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south mouth. weave left open. 4 steps. The lamp stays for the start."}
 {"n":531,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at the Underpass. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":532,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass south mouth. Ivo keeps the lamp for the start. 6 steps, weave on the left lane, open."}
+{"n":533,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south mouth. weave left open. 7 steps. The lamp stays for the start."}
+{"n":534,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at the Underpass. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":535,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass south mouth. Bess keeps the lamp for the start. 2 steps, weave on the left lane, open."}
