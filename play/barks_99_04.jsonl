@@ -314,3 +314,6 @@
 {"n":314,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate west dock. Matt keeps the crate for the start. 3 steps, weave on the left lane, open."}
 {"n":315,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west dock. weave left open. 4 steps. The crate stays for the start."}
 {"n":316,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Ward gate. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":317,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate west dock. Nia keeps the crate for the start. 6 steps, weave on the left lane, open."}
+{"n":318,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west dock. weave left open. 7 steps. The crate stays for the start."}
+{"n":319,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Ward gate. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
