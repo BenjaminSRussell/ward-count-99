@@ -215,3 +215,6 @@
 {"n":215,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at the Lot. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":216,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north dock. Ivo keeps the awning for the start. 5 steps, weave on the left lane, open."}
 {"n":217,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north dock. weave left open. 6 steps. The awning stays for the start."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at the Lot. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":219,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north dock. Bess keeps the awning for the start. 8 steps, weave on the left lane, open."}
+{"n":220,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north dock. weave left open. 2 steps. The awning stays for the start."}
