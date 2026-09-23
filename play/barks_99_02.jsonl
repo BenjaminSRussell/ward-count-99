@@ -475,3 +475,6 @@
 {"n":475,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate south mouth. Bess keeps the lamp for the start. 5 steps, weave on the left lane, open."}
 {"n":476,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south mouth. weave left open. 6 steps. The lamp stays for the start."}
 {"n":477,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Kessler alley. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":478,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley south mouth. Matt keeps the lamp for the start. 8 steps, weave on the left lane, open."}
+{"n":479,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south mouth. weave left open. 2 steps. The lamp stays for the start."}
+{"n":480,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Kessler alley. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
