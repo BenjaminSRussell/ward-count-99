@@ -898,3 +898,6 @@
 {"n":898,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west dock. weave left open. 7 steps. The plywood stays for the start."}
 {"n":899,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Last Light. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":900,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light west dock. Ivo keeps the plywood for the start. 2 steps, weave on the left lane, open."}
+{"n":901,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west dock. weave left open. 3 steps. The plywood stays for the start."}
+{"n":902,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Last Light. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":903,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light west dock. Bess keeps the plywood for the start. 5 steps, weave on the left lane, open."}
