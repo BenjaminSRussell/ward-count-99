@@ -403,3 +403,6 @@
 {"n":403,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north dock. weave left open. 3 steps. The drum stays for the start."}
 {"n":404,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Mall court. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":405,"kind":"place","name":"Mall court north dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court north dock. Nia keeps the drum for the start. 5 steps, weave on the left lane, open."}
+{"n":406,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north dock. weave left open. 6 steps. The drum stays for the start."}
+{"n":407,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Mall court. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":408,"kind":"place","name":"Mall court north dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court north dock. Ivo keeps the drum for the start. 8 steps, weave on the left lane, open."}
