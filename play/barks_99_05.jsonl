@@ -160,3 +160,6 @@
 {"n":160,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate west dock. Ivo keeps the awning for the start. 2 steps, weave on the left lane, open."}
 {"n":161,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west dock. weave left open. 3 steps. The awning stays for the start."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Ward gate. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":163,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate west dock. Bess keeps the awning for the start. 5 steps, weave on the left lane, open."}
+{"n":164,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west dock. weave left open. 6 steps. The awning stays for the start."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Kessler alley. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
