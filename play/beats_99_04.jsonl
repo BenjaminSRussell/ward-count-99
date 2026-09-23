@@ -745,3 +745,6 @@
 {"n":745,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at South stair. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":746,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair west dock. Matt keeps the rebar for the start. 8 steps, weave on the left lane, open."}
 {"n":747,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west dock. weave left open. 2 steps. The rebar stays for the start."}
+{"n":748,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at South stair. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":749,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair west dock. Nia keeps the rebar for the start. 4 steps, weave on the left lane, open."}
+{"n":750,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west dock. weave left open. 5 steps. The rebar stays for the start."}
