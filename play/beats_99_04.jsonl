@@ -286,3 +286,6 @@
 {"n":286,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Switchyard. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":287,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west dock. Bess keeps the barrel for the start. 4 steps, weave on the left lane, open."}
 {"n":288,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west dock. weave left open. 5 steps. The barrel stays for the start."}
+{"n":289,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Drydock. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":290,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock west dock. Matt keeps the barrel for the start. 7 steps, weave on the left lane, open."}
+{"n":291,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west dock. weave left open. 8 steps. The barrel stays for the start."}
