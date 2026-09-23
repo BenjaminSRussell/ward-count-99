@@ -169,3 +169,6 @@
 {"n":169,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at the Lot. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":170,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot west dock. Matt keeps the barrel for the start. 6 steps, weave on the left lane, open."}
 {"n":171,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west dock. weave left open. 7 steps. The barrel stays for the start."}
+{"n":172,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the Lot. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":173,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot west dock. Nia keeps the barrel for the start. 2 steps, weave on the left lane, open."}
+{"n":174,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west dock. weave left open. 3 steps. The barrel stays for the start."}
