@@ -483,3 +483,6 @@
 {"n":483,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Switchyard. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":484,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard north dock. Ivo keeps the crate for the start. 8 steps, weave on the left lane, open."}
 {"n":485,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north dock. weave left open. 2 steps. The crate stays for the start."}
+{"n":486,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Switchyard. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":487,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north dock. Bess keeps the crate for the start. 4 steps, weave on the left lane, open."}
+{"n":488,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north dock. weave left open. 5 steps. The crate stays for the start."}
