@@ -306,3 +306,6 @@
 {"n":306,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Ward gate. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":307,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south mouth. Bess keeps the crate for the start. 5 steps, weave on the left lane, open."}
 {"n":308,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south mouth. weave left open. 6 steps. The crate stays for the start."}
+{"n":309,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Kessler alley. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":310,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley south mouth. Matt keeps the crate for the start. 8 steps, weave on the left lane, open."}
+{"n":311,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south mouth. weave left open. 2 steps. The crate stays for the start."}
