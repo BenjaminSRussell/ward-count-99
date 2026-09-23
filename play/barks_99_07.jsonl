@@ -710,3 +710,6 @@
 {"n":710,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence east dock. Matt keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
 {"n":711,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east dock. weave left open. 5 steps. The radio coil stays for the start."}
 {"n":712,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":713,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east dock. Nia keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
+{"n":714,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east dock. weave left open. 8 steps. The radio coil stays for the start."}
+{"n":715,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Stockyard fence. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
