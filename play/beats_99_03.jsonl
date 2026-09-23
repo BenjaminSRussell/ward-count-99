@@ -872,3 +872,6 @@
 {"n":872,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at the Underpass. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":873,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west dock. Nia keeps the plywood for the start. 3 steps, weave on the left lane, open."}
 {"n":874,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west dock. weave left open. 4 steps. The plywood stays for the start."}
+{"n":875,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at the Underpass. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":876,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west dock. Ivo keeps the plywood for the start. 6 steps, weave on the left lane, open."}
+{"n":877,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west dock. weave left open. 7 steps. The plywood stays for the start."}
