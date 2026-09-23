@@ -221,3 +221,6 @@
 {"n":221,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at the Underpass. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":222,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass east dock. Matt keeps the barrel for the start. 7 steps, weave on the left lane, open."}
 {"n":223,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east dock. weave left open. 8 steps. The barrel stays for the start."}
+{"n":224,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the Underpass. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":225,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass east dock. Nia keeps the barrel for the start. 3 steps, weave on the left lane, open."}
+{"n":226,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east dock. weave left open. 4 steps. The barrel stays for the start."}
