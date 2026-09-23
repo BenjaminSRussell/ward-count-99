@@ -758,3 +758,6 @@
 {"n":758,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier west dock. Matt keeps the rebar for the start. 6 steps, weave on the left lane, open."}
 {"n":759,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west dock. weave left open. 7 steps. The rebar stays for the start."}
 {"n":760,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at the pier. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":761,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier west dock. Nia keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":762,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west dock. weave left open. 3 steps. The rebar stays for the start."}
+{"n":763,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the pier. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
