@@ -568,3 +568,6 @@
 {"n":568,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south mouth. weave left open. 6 steps. The badge door stays for the start."}
 {"n":569,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at South stair. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":570,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair south mouth. Matt keeps the badge door for the start. 8 steps, weave on the left lane, open."}
+{"n":571,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south mouth. weave left open. 2 steps. The badge door stays for the start."}
+{"n":572,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at South stair. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":573,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair south mouth. Nia keeps the badge door for the start. 4 steps, weave on the left lane, open."}
