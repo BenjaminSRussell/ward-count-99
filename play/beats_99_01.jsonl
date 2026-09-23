@@ -100,3 +100,6 @@
 {"n":100,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Drydock. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":101,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock north mouth. Nia keeps the shutter for the start. 3 steps, weave on the left lane, open."}
 {"n":102,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north mouth. weave left open. 4 steps. The shutter stays for the start."}
+{"n":103,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Drydock. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":104,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock north mouth. Ivo keeps the shutter for the start. 6 steps, weave on the left lane, open."}
+{"n":105,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north mouth. weave left open. 7 steps. The shutter stays for the start."}
