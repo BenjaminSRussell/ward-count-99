@@ -515,3 +515,6 @@
 {"n":515,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south mouth. weave left open. 3 steps. The lamp stays for the start."}
 {"n":516,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Mall court. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":517,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court south mouth. Nia keeps the lamp for the start. 5 steps, weave on the left lane, open."}
+{"n":518,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south mouth. weave left open. 6 steps. The lamp stays for the start."}
+{"n":519,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Mall court. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":520,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court south mouth. Ivo keeps the lamp for the start. 8 steps, weave on the left lane, open."}
