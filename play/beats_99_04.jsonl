@@ -664,3 +664,6 @@
 {"n":664,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Kessler alley. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":665,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west dock. Nia keeps the rebar for the start. 4 steps, weave on the left lane, open."}
 {"n":666,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west dock. weave left open. 5 steps. The rebar stays for the start."}
+{"n":667,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Kessler alley. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":668,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the rebar for the start. 7 steps, weave on the left lane, open."}
+{"n":669,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. weave left open. 8 steps. The rebar stays for the start."}
