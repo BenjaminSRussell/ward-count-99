@@ -55,3 +55,6 @@
 {"n":55,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at South stair. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":56,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair north mouth. Ivo keeps the shutter for the start. 7 steps, weave on the left lane, open."}
 {"n":57,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north mouth. weave left open. 8 steps. The shutter stays for the start."}
+{"n":58,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at South stair. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":59,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north mouth. Bess keeps the shutter for the start. 3 steps, weave on the left lane, open."}
+{"n":60,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north mouth. weave left open. 4 steps. The shutter stays for the start."}
