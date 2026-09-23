@@ -249,3 +249,6 @@
 {"n":249,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier south mouth. Nia keeps the awning for the start. 2 steps, weave on the left lane, open."}
 {"n":250,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south mouth. weave left open. 3 steps. The awning stays for the start."}
 {"n":251,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at the pier. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":252,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier south mouth. Ivo keeps the awning for the start. 5 steps, weave on the left lane, open."}
+{"n":253,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south mouth. weave left open. 6 steps. The awning stays for the start."}
+{"n":254,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at the pier. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
