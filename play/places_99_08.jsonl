@@ -509,3 +509,6 @@
 {"n":509,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north dock. weave left open. 5 steps. The crate stays for the start."}
 {"n":510,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at High line. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":511,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north dock. Bess keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":512,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. weave left open. 8 steps. The crate stays for the start."}
+{"n":513,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Ward gate. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":514,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north dock. Matt keeps the lamp for the start. 3 steps, weave on the left lane, open."}
