@@ -576,3 +576,6 @@
 {"n":576,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Last Light. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":577,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light west dock. Nia keeps the badge door for the start. 6 steps, weave on the left lane, open."}
 {"n":578,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west dock. weave left open. 7 steps. The badge door stays for the start."}
+{"n":579,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Last Light. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":580,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light west dock. Ivo keeps the badge door for the start. 2 steps, weave on the left lane, open."}
+{"n":581,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west dock. weave left open. 3 steps. The badge door stays for the start."}
