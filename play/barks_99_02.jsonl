@@ -574,3 +574,6 @@
 {"n":574,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier south mouth. Matt keeps the lamp for the start. 6 steps, weave on the left lane, open."}
 {"n":575,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south mouth. weave left open. 7 steps. The lamp stays for the start."}
 {"n":576,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at the pier. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":577,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier south mouth. Nia keeps the lamp for the start. 2 steps, weave on the left lane, open."}
+{"n":578,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south mouth. weave left open. 3 steps. The lamp stays for the start."}
+{"n":579,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at the pier. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
