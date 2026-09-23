@@ -40,3 +40,6 @@
 {"n":40,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":41,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence east dock. Nia keeps the shutter for the start. 7 steps, weave on the left lane, open."}
 {"n":42,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east dock. weave left open. 8 steps. The shutter stays for the start."}
+{"n":43,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Stockyard fence. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":44,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence east dock. Ivo keeps the shutter for the start. 3 steps, weave on the left lane, open."}
+{"n":45,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east dock. weave left open. 4 steps. The shutter stays for the start."}
