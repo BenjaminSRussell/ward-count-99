@@ -33,3 +33,6 @@
 {"n":33,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light north mouth. Nia keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
 {"n":34,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north mouth. weave left open. 7 steps. The hydrant stays for the start."}
 {"n":35,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Last Light. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":36,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light north mouth. Ivo keeps the hydrant for the start. 2 steps, weave on the left lane, open."}
+{"n":37,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north mouth. weave left open. 3 steps. The hydrant stays for the start."}
+{"n":38,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Last Light. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
