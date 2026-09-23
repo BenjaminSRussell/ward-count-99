@@ -814,3 +814,6 @@
 {"n":814,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west dock. weave left open. 7 steps. The plywood stays for the start."}
 {"n":815,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Ward gate. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":816,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate west dock. Ivo keeps the plywood for the start. 2 steps, weave on the left lane, open."}
+{"n":817,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west dock. weave left open. 3 steps. The plywood stays for the start."}
+{"n":818,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Ward gate. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":819,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate west dock. Bess keeps the plywood for the start. 5 steps, weave on the left lane, open."}
