@@ -157,3 +157,6 @@
 {"n":157,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot south mouth. Nia keeps the barrel for the start. 2 steps, weave on the left lane, open."}
 {"n":158,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south mouth. weave left open. 3 steps. The barrel stays for the start."}
 {"n":159,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at the Lot. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":160,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot south mouth. Ivo keeps the barrel for the start. 5 steps, weave on the left lane, open."}
+{"n":161,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south mouth. weave left open. 6 steps. The barrel stays for the start."}
+{"n":162,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at the Lot. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
