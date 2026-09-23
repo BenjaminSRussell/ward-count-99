@@ -167,3 +167,6 @@
 {"n":167,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north dock. weave left open. 6 steps. The hydrant stays for the start."}
 {"n":168,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at High line. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":169,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line north dock. Nia keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
+{"n":170,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north dock. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":171,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at High line. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":172,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line north dock. Ivo keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
