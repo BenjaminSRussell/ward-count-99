@@ -938,3 +938,6 @@
 {"n":938,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Drydock. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
 {"n":939,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock north mouth. Bess keeps the rope for the start. 2 steps, weave on the left lane, open."}
 {"n":940,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north mouth. weave left open. 3 steps. The rope stays for the start."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at High line. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":942,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line north mouth. Matt keeps the rope for the start. 5 steps, weave on the left lane, open."}
+{"n":943,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north mouth. weave left open. 6 steps. The rope stays for the start."}
