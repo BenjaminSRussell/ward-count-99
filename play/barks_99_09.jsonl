@@ -54,3 +54,6 @@
 {"n":54,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north dock. Matt keeps the shutter for the start. 4 steps, weave on the left lane, open."}
 {"n":55,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north dock. weave left open. 5 steps. The shutter stays for the start."}
 {"n":56,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":57,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence north dock. Nia keeps the shutter for the start. 7 steps, weave on the left lane, open."}
+{"n":58,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north dock. weave left open. 8 steps. The shutter stays for the start."}
+{"n":59,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Stockyard fence. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
