@@ -189,3 +189,6 @@
 {"n":189,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court south mouth. Nia keeps the awning for the start. 5 steps, weave on the left lane, open."}
 {"n":190,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south mouth. weave left open. 6 steps. The awning stays for the start."}
 {"n":191,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Mall court. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":192,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court south mouth. Ivo keeps the awning for the start. 8 steps, weave on the left lane, open."}
+{"n":193,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south mouth. weave left open. 2 steps. The awning stays for the start."}
+{"n":194,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Mall court. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
