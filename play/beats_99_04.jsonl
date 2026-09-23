@@ -559,3 +559,6 @@
 {"n":559,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Mast yard. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":560,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard west dock. Ivo keeps the lamp for the start. 4 steps, weave on the left lane, open."}
 {"n":561,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west dock. weave left open. 5 steps. The lamp stays for the start."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mast yard. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":563,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard west dock. Bess keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":564,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west dock. weave left open. 8 steps. The lamp stays for the start."}
