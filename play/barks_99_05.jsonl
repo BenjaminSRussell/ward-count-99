@@ -982,3 +982,6 @@
 {"n":982,"kind":"place","name":"High line east dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line east dock. Matt keeps the plywood for the start. 5 steps, weave on the left lane, open."}
 {"n":983,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east dock. weave left open. 6 steps. The plywood stays for the start."}
 {"n":984,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at High line. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":985,"kind":"place","name":"High line east dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line east dock. Nia keeps the plywood for the start. 8 steps, weave on the left lane, open."}
+{"n":986,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east dock. weave left open. 2 steps. The plywood stays for the start."}
+{"n":987,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at High line. Nobody past the east dock. We start in 3 steps. Weave on the left lane, open."}
