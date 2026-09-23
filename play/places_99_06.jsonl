@@ -547,3 +547,6 @@
 {"n":547,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east dock. weave left open. 3 steps. The lamp stays for the start."}
 {"n":548,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Mall court. Nobody past the east dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":549,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court east dock. Nia keeps the lamp for the start. 5 steps, weave on the left lane, open."}
+{"n":550,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east dock. weave left open. 6 steps. The lamp stays for the start."}
+{"n":551,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Mall court. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":552,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court east dock. Ivo keeps the lamp for the start. 8 steps, weave on the left lane, open."}
