@@ -806,3 +806,6 @@
 {"n":806,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west dock. weave left open. 4 steps. The radio coil stays for the start."}
 {"n":807,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Drydock. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":808,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock west dock. Ivo keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
+{"n":809,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west dock. weave left open. 7 steps. The radio coil stays for the start."}
+{"n":810,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Drydock. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":811,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west dock. Bess keeps the radio coil for the start. 2 steps, weave on the left lane, open."}
