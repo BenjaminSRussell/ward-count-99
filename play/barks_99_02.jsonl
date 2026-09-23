@@ -982,3 +982,6 @@
 {"n":982,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south mouth. Matt keeps the shutter for the start. 8 steps, weave on the left lane, open."}
 {"n":983,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south mouth. weave left open. 2 steps. The shutter stays for the start."}
 {"n":984,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Kessler alley. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":985,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south mouth. Nia keeps the shutter for the start. 4 steps, weave on the left lane, open."}
+{"n":986,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south mouth. weave left open. 5 steps. The shutter stays for the start."}
+{"n":987,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Kessler alley. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
