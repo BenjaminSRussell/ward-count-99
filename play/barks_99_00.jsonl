@@ -27,3 +27,6 @@
 {"n":27,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard north mouth. Bess keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
 {"n":28,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north mouth. weave left open. 8 steps. The hydrant stays for the start."}
 {"n":29,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Last Light. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":30,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light north mouth. Matt keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
+{"n":31,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north mouth. weave left open. 4 steps. The hydrant stays for the start."}
+{"n":32,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Last Light. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
