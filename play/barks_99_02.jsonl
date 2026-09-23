@@ -301,3 +301,6 @@
 {"n":301,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate south mouth. Nia keeps the crate for the start. 6 steps, weave on the left lane, open."}
 {"n":302,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south mouth. weave left open. 7 steps. The crate stays for the start."}
 {"n":303,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Ward gate. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":304,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south mouth. Ivo keeps the crate for the start. 2 steps, weave on the left lane, open."}
+{"n":305,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south mouth. weave left open. 3 steps. The crate stays for the start."}
+{"n":306,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Ward gate. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
