@@ -613,3 +613,6 @@
 {"n":613,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south mouth. weave left open. 2 steps. The badge door stays for the start."}
 {"n":614,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Switchyard. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":615,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard south mouth. Bess keeps the badge door for the start. 4 steps, weave on the left lane, open."}
+{"n":616,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south mouth. weave left open. 5 steps. The badge door stays for the start."}
+{"n":617,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Drydock. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":618,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock south mouth. Matt keeps the badge door for the start. 7 steps, weave on the left lane, open."}
