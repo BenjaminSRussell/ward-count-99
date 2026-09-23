@@ -821,3 +821,6 @@
 {"n":821,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Kessler alley. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":822,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west dock. Matt keeps the plywood for the start. 8 steps, weave on the left lane, open."}
 {"n":823,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west dock. weave left open. 2 steps. The plywood stays for the start."}
+{"n":824,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Kessler alley. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":825,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west dock. Nia keeps the plywood for the start. 4 steps, weave on the left lane, open."}
+{"n":826,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west dock. weave left open. 5 steps. The plywood stays for the start."}
