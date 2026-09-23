@@ -16,3 +16,6 @@
 {"n":16,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot west dock. Ivo keeps the shutter for the start. 5 steps, weave on the left lane, open."}
 {"n":17,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west dock. weave left open. 6 steps. The shutter stays for the start."}
 {"n":18,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the Lot. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":19,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot west dock. Bess keeps the shutter for the start. 8 steps, weave on the left lane, open."}
+{"n":20,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west dock. weave left open. 2 steps. The shutter stays for the start."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
