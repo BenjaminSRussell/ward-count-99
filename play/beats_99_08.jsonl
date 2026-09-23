@@ -279,3 +279,6 @@
 {"n":279,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at South stair. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":280,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair north dock. Ivo keeps the barrel for the start. 7 steps, weave on the left lane, open."}
 {"n":281,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north dock. weave left open. 8 steps. The barrel stays for the start."}
+{"n":282,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at South stair. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":283,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair north dock. Bess keeps the barrel for the start. 3 steps, weave on the left lane, open."}
+{"n":284,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north dock. weave left open. 4 steps. The barrel stays for the start."}
