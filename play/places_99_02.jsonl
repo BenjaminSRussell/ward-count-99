@@ -434,3 +434,6 @@
 {"n":434,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south mouth. weave left open. 6 steps. The crate stays for the start."}
 {"n":435,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Switchyard. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":436,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard south mouth. Ivo keeps the crate for the start. 8 steps, weave on the left lane, open."}
+{"n":437,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south mouth. weave left open. 2 steps. The crate stays for the start."}
+{"n":438,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Switchyard. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":439,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard south mouth. Bess keeps the crate for the start. 4 steps, weave on the left lane, open."}
