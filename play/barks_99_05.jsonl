@@ -88,3 +88,6 @@
 {"n":88,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair west dock. Ivo keeps the shutter for the start. 7 steps, weave on the left lane, open."}
 {"n":89,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west dock. weave left open. 8 steps. The shutter stays for the start."}
 {"n":90,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at South stair. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":91,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair west dock. Bess keeps the shutter for the start. 3 steps, weave on the left lane, open."}
+{"n":92,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west dock. weave left open. 4 steps. The shutter stays for the start."}
+{"n":93,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at the pier. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
