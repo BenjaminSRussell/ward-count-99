@@ -20,3 +20,6 @@
 {"n":20,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Mast yard. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":21,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard north mouth. Nia keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
 {"n":22,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north mouth. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":23,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Mast yard. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":24,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard north mouth. Ivo keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
+{"n":25,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north mouth. weave left open. 5 steps. The hydrant stays for the start."}
