@@ -937,3 +937,6 @@
 {"n":937,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south dock. weave left open. 5 steps. The plywood stays for the start."}
 {"n":938,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Mast yard. Nobody past the south dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":939,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south dock. Bess keeps the plywood for the start. 7 steps, weave on the left lane, open."}
+{"n":940,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south dock. weave left open. 8 steps. The plywood stays for the start."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Last Light. Nobody past the south dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":942,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light south dock. Matt keeps the plywood for the start. 3 steps, weave on the left lane, open."}
