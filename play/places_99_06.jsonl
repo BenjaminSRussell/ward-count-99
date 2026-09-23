@@ -493,3 +493,6 @@
 {"n":493,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east dock. weave left open. 5 steps. The crate stays for the start."}
 {"n":494,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at High line. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":495,"kind":"place","name":"High line east dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east dock. Bess keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":496,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east dock. weave left open. 8 steps. The crate stays for the start."}
+{"n":497,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Ward gate. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":498,"kind":"place","name":"Ward gate east dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east dock. Matt keeps the lamp for the start. 3 steps, weave on the left lane, open."}
