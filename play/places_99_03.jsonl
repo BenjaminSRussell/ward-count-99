@@ -940,3 +940,6 @@
 {"n":940,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west dock. weave left open. 7 steps. The plywood stays for the start."}
 {"n":941,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Switchyard. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":942,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard west dock. Matt keeps the plywood for the start. 2 steps, weave on the left lane, open."}
+{"n":943,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west dock. weave left open. 3 steps. The plywood stays for the start."}
+{"n":944,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Switchyard. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":945,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west dock. Nia keeps the plywood for the start. 5 steps, weave on the left lane, open."}
