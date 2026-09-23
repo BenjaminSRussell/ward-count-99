@@ -720,3 +720,6 @@
 {"n":720,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Last Light. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":721,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Last Light south mouth. Nia keeps the rebar for the start. 6 steps, weave on the left lane, open."}
 {"n":722,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south mouth. weave left open. 7 steps. The rebar stays for the start."}
+{"n":723,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Last Light. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":724,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light south mouth. Ivo keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":725,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south mouth. weave left open. 3 steps. The rebar stays for the start."}
