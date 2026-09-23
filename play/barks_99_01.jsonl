@@ -680,3 +680,6 @@
 {"n":680,"kind":"place","name":"Mall court north mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court north mouth. Ivo keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
 {"n":681,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north mouth. weave left open. 2 steps. The radio coil stays for the start."}
 {"n":682,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Mall court. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":683,"kind":"place","name":"Mall court north mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court north mouth. Bess keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
+{"n":684,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north mouth. weave left open. 5 steps. The radio coil stays for the start."}
+{"n":685,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at the Underpass. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
