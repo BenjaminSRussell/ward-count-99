@@ -746,3 +746,6 @@
 {"n":746,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Mall court. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":747,"kind":"place","name":"Mall court north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court north dock. Bess keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
 {"n":748,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north dock. weave left open. 5 steps. The radio coil stays for the start."}
+{"n":749,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at the Underpass. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":750,"kind":"place","name":"the Underpass north dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass north dock. Matt keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
+{"n":751,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north dock. weave left open. 8 steps. The radio coil stays for the start."}
