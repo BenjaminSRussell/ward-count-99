@@ -366,3 +366,6 @@
 {"n":366,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence east dock. Matt keeps the crate for the start. 4 steps, weave on the left lane, open."}
 {"n":367,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east dock. weave left open. 5 steps. The crate stays for the start."}
 {"n":368,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Stockyard fence. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":369,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east dock. Nia keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":370,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east dock. weave left open. 8 steps. The crate stays for the start."}
+{"n":371,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Stockyard fence. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
