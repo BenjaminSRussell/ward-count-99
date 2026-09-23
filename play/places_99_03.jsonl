@@ -70,3 +70,6 @@
 {"n":70,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south mouth. weave left open. 5 steps. The shutter stays for the start."}
 {"n":71,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at South stair. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":72,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south mouth. Ivo keeps the shutter for the start. 7 steps, weave on the left lane, open."}
+{"n":73,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south mouth. weave left open. 8 steps. The shutter stays for the start."}
+{"n":74,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at South stair. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":75,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south mouth. Bess keeps the shutter for the start. 3 steps, weave on the left lane, open."}
