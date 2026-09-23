@@ -615,3 +615,6 @@
 {"n":615,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Clinic roof. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":616,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof west dock. Ivo keeps the badge door for the start. 3 steps, weave on the left lane, open."}
 {"n":617,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west dock. weave left open. 4 steps. The badge door stays for the start."}
+{"n":618,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Clinic roof. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":619,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof west dock. Bess keeps the badge door for the start. 6 steps, weave on the left lane, open."}
+{"n":620,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west dock. weave left open. 7 steps. The badge door stays for the start."}
