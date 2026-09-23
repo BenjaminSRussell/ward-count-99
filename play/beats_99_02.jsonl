@@ -852,3 +852,6 @@
 {"n":852,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Mall court. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":853,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court south mouth. Nia keeps the rope for the start. 5 steps, weave on the left lane, open."}
 {"n":854,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south mouth. weave left open. 6 steps. The rope stays for the start."}
+{"n":855,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Mall court. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":856,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court south mouth. Ivo keeps the rope for the start. 8 steps, weave on the left lane, open."}
+{"n":857,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south mouth. weave left open. 2 steps. The rope stays for the start."}
