@@ -86,3 +86,6 @@
 {"n":86,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north dock. weave left open. 2 steps. The hydrant stays for the start."}
 {"n":87,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Mast yard. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":88,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north dock. Ivo keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
+{"n":89,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north dock. weave left open. 5 steps. The hydrant stays for the start."}
+{"n":90,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Mast yard. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":91,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north dock. Bess keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
