@@ -365,3 +365,6 @@
 {"n":365,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the Underpass. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":366,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass south mouth. Matt keeps the drum for the start. 7 steps, weave on the left lane, open."}
 {"n":367,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south mouth. weave left open. 8 steps. The drum stays for the start."}
+{"n":368,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at the Underpass. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":369,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass south mouth. Nia keeps the drum for the start. 3 steps, weave on the left lane, open."}
+{"n":370,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south mouth. weave left open. 4 steps. The drum stays for the start."}
