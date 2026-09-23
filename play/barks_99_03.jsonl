@@ -519,3 +519,6 @@
 {"n":519,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence south mouth. Bess keeps the badge door for the start. 6 steps, weave on the left lane, open."}
 {"n":520,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south mouth. weave left open. 7 steps. The badge door stays for the start."}
 {"n":521,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Mall court. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":522,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court south mouth. Matt keeps the badge door for the start. 2 steps, weave on the left lane, open."}
+{"n":523,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south mouth. weave left open. 3 steps. The badge door stays for the start."}
+{"n":524,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Mall court. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
