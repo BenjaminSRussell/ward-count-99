@@ -812,3 +812,6 @@
 {"n":812,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line west dock. Ivo keeps the rebar for the start. 4 steps, weave on the left lane, open."}
 {"n":813,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west dock. weave left open. 5 steps. The rebar stays for the start."}
 {"n":814,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at High line. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":815,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line west dock. Bess keeps the rebar for the start. 7 steps, weave on the left lane, open."}
+{"n":816,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west dock. weave left open. 8 steps. The rebar stays for the start."}
+{"n":817,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Ward gate. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
