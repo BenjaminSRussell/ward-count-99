@@ -537,3 +537,6 @@
 {"n":537,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south mouth. Nia keeps the badge door for the start. 3 steps, weave on the left lane, open."}
 {"n":538,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south mouth. weave left open. 4 steps. The badge door stays for the start."}
 {"n":539,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at the Underpass. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":540,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south mouth. Ivo keeps the badge door for the start. 6 steps, weave on the left lane, open."}
+{"n":541,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south mouth. weave left open. 7 steps. The badge door stays for the start."}
+{"n":542,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at the Underpass. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
