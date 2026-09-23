@@ -969,3 +969,6 @@
 {"n":969,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Drydock. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":970,"kind":"place","name":"Drydock east dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock east dock. Matt keeps the plywood for the start. 7 steps, weave on the left lane, open."}
 {"n":971,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east dock. weave left open. 8 steps. The plywood stays for the start."}
+{"n":972,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Drydock. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":973,"kind":"place","name":"Drydock east dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock east dock. Nia keeps the plywood for the start. 3 steps, weave on the left lane, open."}
+{"n":974,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east dock. weave left open. 4 steps. The plywood stays for the start."}
