@@ -655,3 +655,6 @@
 {"n":655,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south mouth. weave left open. 2 steps. The radio coil stays for the start."}
 {"n":656,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":657,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley south mouth. Nia keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
+{"n":658,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south mouth. weave left open. 5 steps. The radio coil stays for the start."}
+{"n":659,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Kessler alley. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":660,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south mouth. Ivo keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
