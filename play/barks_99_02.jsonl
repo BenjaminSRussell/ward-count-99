@@ -610,3 +610,6 @@
 {"n":610,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south mouth. Matt keeps the lamp for the start. 7 steps, weave on the left lane, open."}
 {"n":611,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south mouth. weave left open. 8 steps. The lamp stays for the start."}
 {"n":612,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Drydock. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":613,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south mouth. Nia keeps the lamp for the start. 3 steps, weave on the left lane, open."}
+{"n":614,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south mouth. weave left open. 4 steps. The lamp stays for the start."}
+{"n":615,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Drydock. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
