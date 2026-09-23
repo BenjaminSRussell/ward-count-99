@@ -478,3 +478,6 @@
 {"n":478,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley south mouth. Matt keeps the lamp for the start. 8 steps, weave on the left lane, open."}
 {"n":479,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south mouth. weave left open. 2 steps. The lamp stays for the start."}
 {"n":480,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Kessler alley. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":481,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley south mouth. Nia keeps the lamp for the start. 4 steps, weave on the left lane, open."}
+{"n":482,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south mouth. weave left open. 5 steps. The lamp stays for the start."}
+{"n":483,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Kessler alley. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
