@@ -535,3 +535,6 @@
 {"n":535,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north mouth. weave left open. 4 steps. The lamp stays for the start."}
 {"n":536,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Last Light. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":537,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light north mouth. Nia keeps the lamp for the start. 6 steps, weave on the left lane, open."}
+{"n":538,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north mouth. weave left open. 7 steps. The lamp stays for the start."}
+{"n":539,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Last Light. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":540,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light north mouth. Ivo keeps the lamp for the start. 2 steps, weave on the left lane, open."}
