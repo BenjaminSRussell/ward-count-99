@@ -915,3 +915,6 @@
 {"n":915,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court south dock. Bess keeps the plywood for the start. 4 steps, weave on the left lane, open."}
 {"n":916,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south dock. weave left open. 5 steps. The plywood stays for the start."}
 {"n":917,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the Underpass. Nobody past the south dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":918,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass south dock. Matt keeps the plywood for the start. 7 steps, weave on the left lane, open."}
+{"n":919,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south dock. weave left open. 8 steps. The plywood stays for the start."}
+{"n":920,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at the Underpass. Nobody past the south dock. We start in 2 steps. Weave on the left lane, open."}
