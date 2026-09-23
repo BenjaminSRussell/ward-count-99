@@ -215,3 +215,6 @@
 {"n":215,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Mast yard. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":216,"kind":"place","name":"Mast yard south mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south mouth. Ivo keeps the awning for the start. 4 steps, weave on the left lane, open."}
 {"n":217,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south mouth. weave left open. 5 steps. The awning stays for the start."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Mast yard. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":219,"kind":"place","name":"Mast yard south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south mouth. Bess keeps the awning for the start. 7 steps, weave on the left lane, open."}
+{"n":220,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south mouth. weave left open. 8 steps. The awning stays for the start."}
