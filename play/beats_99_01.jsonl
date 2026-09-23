@@ -385,3 +385,6 @@
 {"n":385,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at South stair. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":386,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair north mouth. Matt keeps the drum for the start. 8 steps, weave on the left lane, open."}
 {"n":387,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north mouth. weave left open. 2 steps. The drum stays for the start."}
+{"n":388,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at South stair. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":389,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair north mouth. Nia keeps the drum for the start. 4 steps, weave on the left lane, open."}
+{"n":390,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north mouth. weave left open. 5 steps. The drum stays for the start."}
