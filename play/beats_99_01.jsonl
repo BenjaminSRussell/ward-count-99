@@ -358,3 +358,6 @@
 {"n":358,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at the Underpass. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
 {"n":359,"kind":"place","name":"the Underpass north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass north mouth. Bess keeps the drum for the start. 2 steps, weave on the left lane, open."}
 {"n":360,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north mouth. weave left open. 3 steps. The drum stays for the start."}
+{"n":361,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Mast yard. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":362,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard north mouth. Matt keeps the drum for the start. 5 steps, weave on the left lane, open."}
+{"n":363,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north mouth. weave left open. 6 steps. The drum stays for the start."}
