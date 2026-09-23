@@ -161,3 +161,6 @@
 {"n":161,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Drydock. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":162,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north dock. Matt keeps the shutter for the start. 7 steps, weave on the left lane, open."}
 {"n":163,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north dock. weave left open. 8 steps. The shutter stays for the start."}
+{"n":164,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Drydock. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":165,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north dock. Nia keeps the shutter for the start. 3 steps, weave on the left lane, open."}
+{"n":166,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north dock. weave left open. 4 steps. The shutter stays for the start."}
