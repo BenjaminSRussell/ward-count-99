@@ -219,3 +219,6 @@
 {"n":219,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north mouth. Bess keeps the barrel for the start. 3 steps, weave on the left lane, open."}
 {"n":220,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north mouth. weave left open. 4 steps. The barrel stays for the start."}
 {"n":221,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at the pier. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":222,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north mouth. Matt keeps the barrel for the start. 6 steps, weave on the left lane, open."}
+{"n":223,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north mouth. weave left open. 7 steps. The barrel stays for the start."}
+{"n":224,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the pier. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
