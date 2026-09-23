@@ -231,3 +231,6 @@
 {"n":231,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north mouth. Bess keeps the barrel for the start. 8 steps, weave on the left lane, open."}
 {"n":232,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north mouth. weave left open. 2 steps. The barrel stays for the start."}
 {"n":233,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Clinic roof. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":234,"kind":"place","name":"Clinic roof north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north mouth. Matt keeps the barrel for the start. 4 steps, weave on the left lane, open."}
+{"n":235,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north mouth. weave left open. 5 steps. The barrel stays for the start."}
+{"n":236,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Clinic roof. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
