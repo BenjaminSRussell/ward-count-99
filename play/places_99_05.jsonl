@@ -110,3 +110,6 @@
 {"n":110,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west dock. weave left open. 8 steps. The shutter stays for the start."}
 {"n":111,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Clinic roof. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":112,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof west dock. Ivo keeps the shutter for the start. 3 steps, weave on the left lane, open."}
+{"n":113,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west dock. weave left open. 4 steps. The shutter stays for the start."}
+{"n":114,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Clinic roof. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":115,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof west dock. Bess keeps the shutter for the start. 6 steps, weave on the left lane, open."}
