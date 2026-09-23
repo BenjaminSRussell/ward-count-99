@@ -162,3 +162,6 @@
 {"n":162,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot south mouth. Matt keeps the awning for the start. 6 steps, weave on the left lane, open."}
 {"n":163,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south mouth. weave left open. 7 steps. The awning stays for the start."}
 {"n":164,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at the Lot. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":165,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot south mouth. Nia keeps the awning for the start. 2 steps, weave on the left lane, open."}
+{"n":166,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south mouth. weave left open. 3 steps. The awning stays for the start."}
+{"n":167,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at the Lot. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
