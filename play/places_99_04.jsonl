@@ -765,3 +765,6 @@
 {"n":765,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west dock. weave left open. 6 steps. The rebar stays for the start."}
 {"n":766,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the pier. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":767,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier west dock. Bess keeps the rebar for the start. 8 steps, weave on the left lane, open."}
+{"n":768,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west dock. weave left open. 2 steps. The rebar stays for the start."}
+{"n":769,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Clinic roof. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":770,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof west dock. Matt keeps the rebar for the start. 4 steps, weave on the left lane, open."}
