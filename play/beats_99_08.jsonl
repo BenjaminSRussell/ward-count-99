@@ -468,3 +468,6 @@
 {"n":468,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Clinic roof. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":469,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof north dock. Nia keeps the crate for the start. 7 steps, weave on the left lane, open."}
 {"n":470,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north dock. weave left open. 8 steps. The crate stays for the start."}
+{"n":471,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Clinic roof. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":472,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the crate for the start. 3 steps, weave on the left lane, open."}
+{"n":473,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north dock. weave left open. 4 steps. The crate stays for the start."}
