@@ -977,3 +977,6 @@
 {"n":977,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south mouth. weave left open. 3 steps. The shutter stays for the start."}
 {"n":978,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Ward gate. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":979,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south mouth. Bess keeps the shutter for the start. 5 steps, weave on the left lane, open."}
+{"n":980,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south mouth. weave left open. 6 steps. The shutter stays for the start."}
+{"n":981,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Kessler alley. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":982,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south mouth. Matt keeps the shutter for the start. 8 steps, weave on the left lane, open."}
