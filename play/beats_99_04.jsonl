@@ -70,3 +70,6 @@
 {"n":70,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Last Light. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":71,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light west dock. Bess keeps the hydrant for the start. 5 steps, weave on the left lane, open."}
 {"n":72,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west dock. weave left open. 6 steps. The hydrant stays for the start."}
+{"n":73,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at South stair. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":74,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair west dock. Matt keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
+{"n":75,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west dock. weave left open. 2 steps. The hydrant stays for the start."}
