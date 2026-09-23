@@ -713,3 +713,6 @@
 {"n":713,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south mouth. weave left open. 5 steps. The rebar stays for the start."}
 {"n":714,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Mast yard. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":715,"kind":"place","name":"Mast yard south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard south mouth. Bess keeps the rebar for the start. 7 steps, weave on the left lane, open."}
+{"n":716,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south mouth. weave left open. 8 steps. The rebar stays for the start."}
+{"n":717,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Last Light. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":718,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light south mouth. Matt keeps the rebar for the start. 3 steps, weave on the left lane, open."}
