@@ -175,3 +175,6 @@
 {"n":175,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north dock. weave left open. 6 steps. The shutter stays for the start."}
 {"n":176,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at High line. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":177,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line north dock. Nia keeps the shutter for the start. 8 steps, weave on the left lane, open."}
+{"n":178,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north dock. weave left open. 2 steps. The shutter stays for the start."}
+{"n":179,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at High line. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":180,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line north dock. Ivo keeps the shutter for the start. 4 steps, weave on the left lane, open."}
