@@ -885,3 +885,6 @@
 {"n":885,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard west dock. Nia keeps the plywood for the start. 8 steps, weave on the left lane, open."}
 {"n":886,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west dock. weave left open. 2 steps. The plywood stays for the start."}
 {"n":887,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Mast yard. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":888,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard west dock. Ivo keeps the plywood for the start. 4 steps, weave on the left lane, open."}
+{"n":889,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west dock. weave left open. 5 steps. The plywood stays for the start."}
+{"n":890,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Mast yard. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
