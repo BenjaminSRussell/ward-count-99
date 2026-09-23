@@ -738,3 +738,6 @@
 {"n":738,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west dock. weave left open. 7 steps. The rebar stays for the start."}
 {"n":739,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Last Light. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":740,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light west dock. Ivo keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":741,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west dock. weave left open. 3 steps. The rebar stays for the start."}
+{"n":742,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Last Light. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":743,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light west dock. Bess keeps the rebar for the start. 5 steps, weave on the left lane, open."}
