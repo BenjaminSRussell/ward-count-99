@@ -844,3 +844,6 @@
 {"n":844,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west dock. weave left open. 2 steps. The plywood stays for the start."}
 {"n":845,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":846,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west dock. Matt keeps the plywood for the start. 4 steps, weave on the left lane, open."}
+{"n":847,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west dock. weave left open. 5 steps. The plywood stays for the start."}
+{"n":848,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":849,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence west dock. Nia keeps the plywood for the start. 7 steps, weave on the left lane, open."}
