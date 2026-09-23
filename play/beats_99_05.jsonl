@@ -408,3 +408,6 @@
 {"n":408,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Last Light. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":409,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light west dock. Nia keeps the drum for the start. 6 steps, weave on the left lane, open."}
 {"n":410,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west dock. weave left open. 7 steps. The drum stays for the start."}
+{"n":411,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Last Light. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":412,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light west dock. Ivo keeps the drum for the start. 2 steps, weave on the left lane, open."}
+{"n":413,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west dock. weave left open. 3 steps. The drum stays for the start."}
