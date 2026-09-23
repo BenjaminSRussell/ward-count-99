@@ -392,3 +392,6 @@
 {"n":392,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south mouth. weave left open. 6 steps. The crate stays for the start."}
 {"n":393,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at South stair. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":394,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair south mouth. Matt keeps the crate for the start. 8 steps, weave on the left lane, open."}
+{"n":395,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south mouth. weave left open. 2 steps. The crate stays for the start."}
+{"n":396,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at South stair. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":397,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair south mouth. Nia keeps the crate for the start. 4 steps, weave on the left lane, open."}
