@@ -319,3 +319,6 @@
 {"n":319,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley south mouth. Bess keeps the crate for the start. 3 steps, weave on the left lane, open."}
 {"n":320,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south mouth. weave left open. 4 steps. The crate stays for the start."}
 {"n":321,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the Lot. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":322,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot south mouth. Matt keeps the crate for the start. 6 steps, weave on the left lane, open."}
+{"n":323,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south mouth. weave left open. 7 steps. The crate stays for the start."}
+{"n":324,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at the Lot. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
