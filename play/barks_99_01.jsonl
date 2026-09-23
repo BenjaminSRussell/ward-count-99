@@ -65,3 +65,6 @@
 {"n":65,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier north mouth. Nia keeps the shutter for the start. 2 steps, weave on the left lane, open."}
 {"n":66,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north mouth. weave left open. 3 steps. The shutter stays for the start."}
 {"n":67,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at the pier. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":68,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north mouth. Ivo keeps the shutter for the start. 5 steps, weave on the left lane, open."}
+{"n":69,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north mouth. weave left open. 6 steps. The shutter stays for the start."}
+{"n":70,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the pier. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
