@@ -313,3 +313,6 @@
 {"n":313,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley south mouth. Nia keeps the crate for the start. 4 steps, weave on the left lane, open."}
 {"n":314,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south mouth. weave left open. 5 steps. The crate stays for the start."}
 {"n":315,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Kessler alley. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":316,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley south mouth. Ivo keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":317,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south mouth. weave left open. 8 steps. The crate stays for the start."}
+{"n":318,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Kessler alley. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
