@@ -301,3 +301,6 @@
 {"n":301,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at High line. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":302,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line west dock. Matt keeps the barrel for the start. 5 steps, weave on the left lane, open."}
 {"n":303,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west dock. weave left open. 6 steps. The barrel stays for the start."}
+{"n":304,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at High line. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":305,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line west dock. Nia keeps the barrel for the start. 8 steps, weave on the left lane, open."}
+{"n":306,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west dock. weave left open. 2 steps. The barrel stays for the start."}
