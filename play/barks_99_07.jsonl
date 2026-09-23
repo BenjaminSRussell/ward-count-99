@@ -20,3 +20,6 @@
 {"n":20,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east dock. Ivo keeps the shutter for the start. 7 steps, weave on the left lane, open."}
 {"n":21,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east dock. weave left open. 8 steps. The shutter stays for the start."}
 {"n":22,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Kessler alley. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":23,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east dock. Bess keeps the shutter for the start. 3 steps, weave on the left lane, open."}
+{"n":24,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east dock. weave left open. 4 steps. The shutter stays for the start."}
+{"n":25,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at the Lot. Nobody past the east dock. We start in 5 steps. Weave on the left lane, open."}
