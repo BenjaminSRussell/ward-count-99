@@ -237,3 +237,6 @@
 {"n":237,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north mouth. weave left open. 6 steps. The awning stays for the start."}
 {"n":238,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at the pier. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":239,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north mouth. Bess keeps the awning for the start. 8 steps, weave on the left lane, open."}
+{"n":240,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north mouth. weave left open. 2 steps. The awning stays for the start."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Clinic roof. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":242,"kind":"place","name":"Clinic roof north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north mouth. Matt keeps the awning for the start. 4 steps, weave on the left lane, open."}
