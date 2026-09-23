@@ -348,3 +348,6 @@
 {"n":348,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley east dock. Ivo keeps the crate for the start. 7 steps, weave on the left lane, open."}
 {"n":349,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east dock. weave left open. 8 steps. The crate stays for the start."}
 {"n":350,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Kessler alley. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":351,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east dock. Bess keeps the crate for the start. 3 steps, weave on the left lane, open."}
+{"n":352,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east dock. weave left open. 4 steps. The crate stays for the start."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the Lot. Nobody past the east dock. We start in 5 steps. Weave on the left lane, open."}
