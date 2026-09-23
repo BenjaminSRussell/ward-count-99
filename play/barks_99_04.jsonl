@@ -275,3 +275,6 @@
 {"n":275,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof west dock. Bess keeps the barrel for the start. 6 steps, weave on the left lane, open."}
 {"n":276,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west dock. weave left open. 7 steps. The barrel stays for the start."}
 {"n":277,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Switchyard. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":278,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard west dock. Matt keeps the barrel for the start. 2 steps, weave on the left lane, open."}
+{"n":279,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west dock. weave left open. 3 steps. The barrel stays for the start."}
+{"n":280,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Switchyard. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
