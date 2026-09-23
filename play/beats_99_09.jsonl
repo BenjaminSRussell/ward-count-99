@@ -983,3 +983,6 @@
 {"n":983,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Clinic roof. Nobody past the south dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":984,"kind":"place","name":"Clinic roof south dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof south dock. Ivo keeps the plywood for the start. 3 steps, weave on the left lane, open."}
 {"n":985,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south dock. weave left open. 4 steps. The plywood stays for the start."}
+{"n":986,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Clinic roof. Nobody past the south dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":987,"kind":"place","name":"Clinic roof south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof south dock. Bess keeps the plywood for the start. 6 steps, weave on the left lane, open."}
+{"n":988,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south dock. weave left open. 7 steps. The plywood stays for the start."}
