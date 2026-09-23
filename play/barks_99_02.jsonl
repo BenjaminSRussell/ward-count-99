@@ -895,3 +895,6 @@
 {"n":895,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light south mouth. Bess keeps the rope for the start. 5 steps, weave on the left lane, open."}
 {"n":896,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south mouth. weave left open. 6 steps. The rope stays for the start."}
 {"n":897,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at South stair. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":898,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair south mouth. Matt keeps the rope for the start. 8 steps, weave on the left lane, open."}
+{"n":899,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south mouth. weave left open. 2 steps. The rope stays for the start."}
+{"n":900,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at South stair. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
