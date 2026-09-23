@@ -181,3 +181,6 @@
 {"n":181,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate north dock. Nia keeps the barrel for the start. 6 steps, weave on the left lane, open."}
 {"n":182,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north dock. weave left open. 7 steps. The barrel stays for the start."}
 {"n":183,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Ward gate. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":184,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate north dock. Ivo keeps the barrel for the start. 2 steps, weave on the left lane, open."}
+{"n":185,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north dock. weave left open. 3 steps. The barrel stays for the start."}
+{"n":186,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Ward gate. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
