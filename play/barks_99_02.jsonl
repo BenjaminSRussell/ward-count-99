@@ -4,3 +4,6 @@
 {"n":4,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence south mouth. Ivo keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
 {"n":5,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south mouth. weave left open. 4 steps. The hydrant stays for the start."}
 {"n":6,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":7,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence south mouth. Bess keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
+{"n":8,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south mouth. weave left open. 7 steps. The hydrant stays for the start."}
+{"n":9,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Mall court. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
