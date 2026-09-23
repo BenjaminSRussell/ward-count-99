@@ -273,3 +273,6 @@
 {"n":273,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east dock. weave left open. 8 steps. The awning stays for the start."}
 {"n":274,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at South stair. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":275,"kind":"place","name":"South stair east dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair east dock. Bess keeps the awning for the start. 3 steps, weave on the left lane, open."}
+{"n":276,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east dock. weave left open. 4 steps. The awning stays for the start."}
+{"n":277,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at the pier. Nobody past the east dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":278,"kind":"place","name":"the pier east dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier east dock. Matt keeps the awning for the start. 6 steps, weave on the left lane, open."}
