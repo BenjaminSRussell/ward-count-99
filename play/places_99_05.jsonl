@@ -563,3 +563,6 @@
 {"n":563,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west dock. weave left open. 6 steps. The badge door stays for the start."}
 {"n":564,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Mast yard. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":565,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard west dock. Nia keeps the badge door for the start. 8 steps, weave on the left lane, open."}
+{"n":566,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west dock. weave left open. 2 steps. The badge door stays for the start."}
+{"n":567,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Mast yard. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":568,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard west dock. Ivo keeps the badge door for the start. 4 steps, weave on the left lane, open."}
