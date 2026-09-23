@@ -90,3 +90,6 @@
 {"n":90,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":91,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof south mouth. Bess keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
 {"n":92,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south mouth. weave left open. 7 steps. The hydrant stays for the start."}
+{"n":93,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Switchyard. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":94,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard south mouth. Matt keeps the hydrant for the start. 2 steps, weave on the left lane, open."}
+{"n":95,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south mouth. weave left open. 3 steps. The hydrant stays for the start."}
