@@ -334,3 +334,6 @@
 {"n":334,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Stockyard fence. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":335,"kind":"place","name":"Stockyard fence north mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence north mouth. Bess keeps the drum for the start. 6 steps, weave on the left lane, open."}
 {"n":336,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north mouth. weave left open. 7 steps. The drum stays for the start."}
+{"n":337,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Mall court. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":338,"kind":"place","name":"Mall court north mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court north mouth. Matt keeps the drum for the start. 2 steps, weave on the left lane, open."}
+{"n":339,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north mouth. weave left open. 3 steps. The drum stays for the start."}
