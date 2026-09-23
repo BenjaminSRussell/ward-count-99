@@ -393,3 +393,6 @@
 {"n":393,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Mast yard. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":394,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard west dock. Matt keeps the drum for the start. 5 steps, weave on the left lane, open."}
 {"n":395,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west dock. weave left open. 6 steps. The drum stays for the start."}
+{"n":396,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Mast yard. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":397,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard west dock. Nia keeps the drum for the start. 8 steps, weave on the left lane, open."}
+{"n":398,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west dock. weave left open. 2 steps. The drum stays for the start."}
