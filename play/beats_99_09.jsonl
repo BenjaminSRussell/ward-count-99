@@ -503,3 +503,6 @@
 {"n":503,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Drydock. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":504,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock north dock. Ivo keeps the drum for the start. 6 steps, weave on the left lane, open."}
 {"n":505,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north dock. weave left open. 7 steps. The drum stays for the start."}
+{"n":506,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Drydock. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":507,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock north dock. Bess keeps the drum for the start. 2 steps, weave on the left lane, open."}
+{"n":508,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north dock. weave left open. 3 steps. The drum stays for the start."}
