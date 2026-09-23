@@ -973,3 +973,6 @@
 {"n":973,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west dock. weave left open. 5 steps. The plywood stays for the start."}
 {"n":974,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at High line. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":975,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line west dock. Bess keeps the plywood for the start. 7 steps, weave on the left lane, open."}
+{"n":976,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west dock. weave left open. 8 steps. The plywood stays for the start."}
+{"n":977,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Ward gate. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":978,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate west dock. Matt keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
