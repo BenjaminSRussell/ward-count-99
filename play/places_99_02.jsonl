@@ -599,3 +599,6 @@
 {"n":599,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south mouth. weave left open. 3 steps. The lamp stays for the start."}
 {"n":600,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Switchyard. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":601,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Switchyard south mouth. Nia keeps the lamp for the start. 5 steps, weave on the left lane, open."}
+{"n":602,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south mouth. weave left open. 6 steps. The lamp stays for the start."}
+{"n":603,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Switchyard. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":604,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard south mouth. Ivo keeps the lamp for the start. 8 steps, weave on the left lane, open."}
