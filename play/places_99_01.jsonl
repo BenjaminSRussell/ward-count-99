@@ -810,3 +810,6 @@
 {"n":810,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south mouth. weave left open. 5 steps. The plywood stays for the start."}
 {"n":811,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Kessler alley. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":812,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley south mouth. Ivo keeps the plywood for the start. 7 steps, weave on the left lane, open."}
+{"n":813,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south mouth. weave left open. 8 steps. The plywood stays for the start."}
+{"n":814,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Kessler alley. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":815,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south mouth. Bess keeps the plywood for the start. 3 steps, weave on the left lane, open."}
