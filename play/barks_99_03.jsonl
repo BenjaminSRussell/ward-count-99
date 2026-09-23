@@ -957,3 +957,6 @@
 {"n":957,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock west dock. Nia keeps the plywood for the start. 3 steps, weave on the left lane, open."}
 {"n":958,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west dock. weave left open. 4 steps. The plywood stays for the start."}
 {"n":959,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Drydock. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":960,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock west dock. Ivo keeps the plywood for the start. 6 steps, weave on the left lane, open."}
+{"n":961,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west dock. weave left open. 7 steps. The plywood stays for the start."}
+{"n":962,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Drydock. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
