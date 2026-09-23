@@ -903,3 +903,6 @@
 {"n":903,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south mouth. weave left open. 7 steps. The plywood stays for the start."}
 {"n":904,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at the pier. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
 {"n":905,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier south mouth. Nia keeps the plywood for the start. 2 steps, weave on the left lane, open."}
+{"n":906,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south mouth. weave left open. 3 steps. The plywood stays for the start."}
+{"n":907,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at the pier. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":908,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier south mouth. Ivo keeps the plywood for the start. 5 steps, weave on the left lane, open."}
