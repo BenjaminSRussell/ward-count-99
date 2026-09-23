@@ -2,3 +2,6 @@
 {"n":2,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the Lot. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":3,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot south mouth. Bess keeps the shutter for the start. 8 steps, weave on the left lane, open."}
 {"n":4,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south mouth. weave left open. 2 steps. The shutter stays for the start."}
+{"n":5,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":6,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence south mouth. Matt keeps the shutter for the start. 4 steps, weave on the left lane, open."}
+{"n":7,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south mouth. weave left open. 5 steps. The shutter stays for the start."}
