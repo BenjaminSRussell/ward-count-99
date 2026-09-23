@@ -667,3 +667,6 @@
 {"n":667,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north dock. weave left open. 8 steps. The badge door stays for the start."}
 {"n":668,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Drydock. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":669,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north dock. Nia keeps the badge door for the start. 3 steps, weave on the left lane, open."}
+{"n":670,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north dock. weave left open. 4 steps. The badge door stays for the start."}
+{"n":671,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Drydock. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":672,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock north dock. Ivo keeps the badge door for the start. 6 steps, weave on the left lane, open."}
