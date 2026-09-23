@@ -255,3 +255,6 @@
 {"n":255,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at South stair. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":256,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair west dock. Ivo keeps the awning for the start. 7 steps, weave on the left lane, open."}
 {"n":257,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west dock. weave left open. 8 steps. The awning stays for the start."}
+{"n":258,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at South stair. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":259,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair west dock. Bess keeps the awning for the start. 3 steps, weave on the left lane, open."}
+{"n":260,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west dock. weave left open. 4 steps. The awning stays for the start."}
