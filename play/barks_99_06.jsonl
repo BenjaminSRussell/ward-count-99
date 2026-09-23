@@ -297,3 +297,6 @@
 {"n":297,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard east dock. Nia keeps the barrel for the start. 5 steps, weave on the left lane, open."}
 {"n":298,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east dock. weave left open. 6 steps. The barrel stays for the start."}
 {"n":299,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Switchyard. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":300,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east dock. Ivo keeps the barrel for the start. 8 steps, weave on the left lane, open."}
+{"n":301,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east dock. weave left open. 2 steps. The barrel stays for the start."}
+{"n":302,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Switchyard. Nobody past the east dock. We start in 3 steps. Weave on the left lane, open."}
