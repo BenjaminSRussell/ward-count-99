@@ -369,3 +369,6 @@
 {"n":369,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east dock. weave left open. 6 steps. The drum stays for the start."}
 {"n":370,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at the Lot. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":371,"kind":"place","name":"the Lot east dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot east dock. Bess keeps the drum for the start. 8 steps, weave on the left lane, open."}
+{"n":372,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east dock. weave left open. 2 steps. The drum stays for the start."}
+{"n":373,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Stockyard fence. Nobody past the east dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":374,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence east dock. Matt keeps the drum for the start. 4 steps, weave on the left lane, open."}
