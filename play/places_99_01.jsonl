@@ -9,3 +9,6 @@
 {"n":9,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north mouth. weave left open. 2 steps. The shutter stays for the start."}
 {"n":10,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Mall court. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":11,"kind":"place","name":"Mall court north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court north mouth. Bess keeps the shutter for the start. 4 steps, weave on the left lane, open."}
+{"n":12,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north mouth. weave left open. 5 steps. The shutter stays for the start."}
+{"n":13,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at the Underpass. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":14,"kind":"place","name":"the Underpass north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north mouth. Matt keeps the shutter for the start. 7 steps, weave on the left lane, open."}
