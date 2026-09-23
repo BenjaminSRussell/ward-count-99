@@ -344,3 +344,6 @@
 {"n":344,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west dock. weave left open. 4 steps. The drum stays for the start."}
 {"n":345,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the Lot. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":346,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot west dock. Matt keeps the drum for the start. 6 steps, weave on the left lane, open."}
+{"n":347,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west dock. weave left open. 7 steps. The drum stays for the start."}
+{"n":348,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at the Lot. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":349,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot west dock. Nia keeps the drum for the start. 2 steps, weave on the left lane, open."}
