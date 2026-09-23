@@ -191,3 +191,6 @@
 {"n":191,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Ward gate. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":192,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate north dock. Ivo keeps the awning for the start. 2 steps, weave on the left lane, open."}
 {"n":193,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north dock. weave left open. 3 steps. The awning stays for the start."}
+{"n":194,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Ward gate. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":195,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate north dock. Bess keeps the awning for the start. 5 steps, weave on the left lane, open."}
+{"n":196,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north dock. weave left open. 6 steps. The awning stays for the start."}
