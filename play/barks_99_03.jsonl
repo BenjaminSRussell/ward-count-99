@@ -234,3 +234,6 @@
 {"n":234,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair south mouth. Matt keeps the awning for the start. 8 steps, weave on the left lane, open."}
 {"n":235,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south mouth. weave left open. 2 steps. The awning stays for the start."}
 {"n":236,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at South stair. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":237,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair south mouth. Nia keeps the awning for the start. 4 steps, weave on the left lane, open."}
+{"n":238,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south mouth. weave left open. 5 steps. The awning stays for the start."}
+{"n":239,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at South stair. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
