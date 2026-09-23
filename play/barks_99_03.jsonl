@@ -105,3 +105,6 @@
 {"n":105,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard south mouth. Nia keeps the shutter for the start. 5 steps, weave on the left lane, open."}
 {"n":106,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south mouth. weave left open. 6 steps. The shutter stays for the start."}
 {"n":107,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Switchyard. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":108,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south mouth. Ivo keeps the shutter for the start. 8 steps, weave on the left lane, open."}
+{"n":109,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south mouth. weave left open. 2 steps. The shutter stays for the start."}
+{"n":110,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Switchyard. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
