@@ -54,3 +54,6 @@
 {"n":54,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier north mouth. Matt keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
 {"n":55,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north mouth. weave left open. 7 steps. The hydrant stays for the start."}
 {"n":56,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at the pier. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":57,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier north mouth. Nia keeps the hydrant for the start. 2 steps, weave on the left lane, open."}
+{"n":58,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north mouth. weave left open. 3 steps. The hydrant stays for the start."}
+{"n":59,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at the pier. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
