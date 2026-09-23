@@ -121,3 +121,6 @@
 {"n":121,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line south mouth. Nia keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
 {"n":122,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south mouth. weave left open. 2 steps. The hydrant stays for the start."}
 {"n":123,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at High line. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":124,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line south mouth. Ivo keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
+{"n":125,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south mouth. weave left open. 5 steps. The hydrant stays for the start."}
+{"n":126,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at High line. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
