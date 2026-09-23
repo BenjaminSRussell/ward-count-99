@@ -453,3 +453,6 @@
 {"n":453,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east dock. weave left open. 6 steps. The drum stays for the start."}
 {"n":454,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at the pier. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":455,"kind":"place","name":"the pier east dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier east dock. Bess keeps the drum for the start. 8 steps, weave on the left lane, open."}
+{"n":456,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east dock. weave left open. 2 steps. The drum stays for the start."}
+{"n":457,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Clinic roof. Nobody past the east dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":458,"kind":"place","name":"Clinic roof east dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof east dock. Matt keeps the drum for the start. 4 steps, weave on the left lane, open."}
