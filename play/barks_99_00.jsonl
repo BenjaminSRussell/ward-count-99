@@ -528,3 +528,6 @@
 {"n":528,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north mouth. Ivo keeps the lamp for the start. 4 steps, weave on the left lane, open."}
 {"n":529,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north mouth. weave left open. 5 steps. The lamp stays for the start."}
 {"n":530,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mast yard. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":531,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north mouth. Bess keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":532,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north mouth. weave left open. 8 steps. The lamp stays for the start."}
+{"n":533,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Last Light. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
