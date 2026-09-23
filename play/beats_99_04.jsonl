@@ -229,3 +229,6 @@
 {"n":229,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Last Light. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":230,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west dock. Matt keeps the barrel for the start. 3 steps, weave on the left lane, open."}
 {"n":231,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west dock. weave left open. 4 steps. The barrel stays for the start."}
+{"n":232,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Last Light. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":233,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light west dock. Nia keeps the barrel for the start. 6 steps, weave on the left lane, open."}
+{"n":234,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west dock. weave left open. 7 steps. The barrel stays for the start."}
