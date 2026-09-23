@@ -212,3 +212,6 @@
 {"n":212,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south mouth. weave left open. 8 steps. The barrel stays for the start."}
 {"n":213,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Last Light. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":214,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light south mouth. Matt keeps the barrel for the start. 3 steps, weave on the left lane, open."}
+{"n":215,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south mouth. weave left open. 4 steps. The barrel stays for the start."}
+{"n":216,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Last Light. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":217,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light south mouth. Nia keeps the barrel for the start. 6 steps, weave on the left lane, open."}
