@@ -290,3 +290,6 @@
 {"n":290,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north mouth. Matt keeps the drum for the start. 3 steps, weave on the left lane, open."}
 {"n":291,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north mouth. weave left open. 4 steps. The drum stays for the start."}
 {"n":292,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Ward gate. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":293,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate north mouth. Nia keeps the drum for the start. 6 steps, weave on the left lane, open."}
+{"n":294,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north mouth. weave left open. 7 steps. The drum stays for the start."}
+{"n":295,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Ward gate. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
