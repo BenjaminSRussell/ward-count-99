@@ -422,3 +422,6 @@
 {"n":422,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Switchyard. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":423,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north mouth. Bess keeps the crate for the start. 4 steps, weave on the left lane, open."}
 {"n":424,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north mouth. weave left open. 5 steps. The crate stays for the start."}
+{"n":425,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Drydock. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":426,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north mouth. Matt keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":427,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north mouth. weave left open. 8 steps. The crate stays for the start."}
