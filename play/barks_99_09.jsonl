@@ -99,3 +99,6 @@
 {"n":99,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north dock. Bess keeps the shutter for the start. 7 steps, weave on the left lane, open."}
 {"n":100,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north dock. weave left open. 8 steps. The shutter stays for the start."}
 {"n":101,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Last Light. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":102,"kind":"place","name":"Last Light north dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north dock. Matt keeps the shutter for the start. 3 steps, weave on the left lane, open."}
+{"n":103,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north dock. weave left open. 4 steps. The shutter stays for the start."}
+{"n":104,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Last Light. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
