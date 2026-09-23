@@ -630,3 +630,6 @@
 {"n":630,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west dock. weave left open. 4 steps. The lamp stays for the start."}
 {"n":631,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Drydock. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":632,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock west dock. Ivo keeps the lamp for the start. 6 steps, weave on the left lane, open."}
+{"n":633,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west dock. weave left open. 7 steps. The lamp stays for the start."}
+{"n":634,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Drydock. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":635,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock west dock. Bess keeps the lamp for the start. 2 steps, weave on the left lane, open."}
