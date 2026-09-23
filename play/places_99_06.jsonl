@@ -814,3 +814,6 @@
 {"n":814,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east dock. weave left open. 4 steps. The rebar stays for the start."}
 {"n":815,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Drydock. Nobody past the east dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":816,"kind":"place","name":"Drydock east dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock east dock. Ivo keeps the rebar for the start. 6 steps, weave on the left lane, open."}
+{"n":817,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east dock. weave left open. 7 steps. The rebar stays for the start."}
+{"n":818,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Drydock. Nobody past the east dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":819,"kind":"place","name":"Drydock east dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock east dock. Bess keeps the rebar for the start. 2 steps, weave on the left lane, open."}
