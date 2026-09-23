@@ -127,3 +127,6 @@
 {"n":127,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west dock. Bess keeps the shutter for the start. 4 steps, weave on the left lane, open."}
 {"n":128,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west dock. weave left open. 5 steps. The shutter stays for the start."}
 {"n":129,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Drydock. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":130,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock west dock. Matt keeps the shutter for the start. 7 steps, weave on the left lane, open."}
+{"n":131,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west dock. weave left open. 8 steps. The shutter stays for the start."}
+{"n":132,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Drydock. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
