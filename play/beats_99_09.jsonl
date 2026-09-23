@@ -392,3 +392,6 @@
 {"n":392,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Stockyard fence. Nobody past the north dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":393,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north dock. Nia keeps the drum for the start. 7 steps, weave on the left lane, open."}
 {"n":394,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north dock. weave left open. 8 steps. The drum stays for the start."}
+{"n":395,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Stockyard fence. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":396,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north dock. Ivo keeps the drum for the start. 3 steps, weave on the left lane, open."}
+{"n":397,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north dock. weave left open. 4 steps. The drum stays for the start."}
