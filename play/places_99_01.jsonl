@@ -786,3 +786,6 @@
 {"n":786,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north mouth. weave left open. 2 steps. The radio coil stays for the start."}
 {"n":787,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at High line. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":788,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line north mouth. Ivo keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
+{"n":789,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north mouth. weave left open. 5 steps. The radio coil stays for the start."}
+{"n":790,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at High line. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":791,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north mouth. Bess keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
