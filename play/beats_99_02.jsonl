@@ -228,3 +228,6 @@
 {"n":228,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at South stair. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":229,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair south mouth. Nia keeps the barrel for the start. 4 steps, weave on the left lane, open."}
 {"n":230,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south mouth. weave left open. 5 steps. The barrel stays for the start."}
+{"n":231,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at South stair. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":232,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south mouth. Ivo keeps the barrel for the start. 7 steps, weave on the left lane, open."}
+{"n":233,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south mouth. weave left open. 8 steps. The barrel stays for the start."}
