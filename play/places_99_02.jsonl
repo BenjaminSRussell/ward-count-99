@@ -653,3 +653,6 @@
 {"n":653,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south mouth. weave left open. 8 steps. The rebar stays for the start."}
 {"n":654,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Kessler alley. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":655,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south mouth. Bess keeps the rebar for the start. 3 steps, weave on the left lane, open."}
+{"n":656,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south mouth. weave left open. 4 steps. The rebar stays for the start."}
+{"n":657,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at the Lot. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":658,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot south mouth. Matt keeps the rebar for the start. 6 steps, weave on the left lane, open."}
