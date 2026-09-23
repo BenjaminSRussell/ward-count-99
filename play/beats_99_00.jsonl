@@ -47,3 +47,6 @@
 {"n":47,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at South stair. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":48,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair north mouth. Ivo keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
 {"n":49,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north mouth. weave left open. 8 steps. The hydrant stays for the start."}
+{"n":50,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at South stair. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":51,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair north mouth. Bess keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
+{"n":52,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north mouth. weave left open. 4 steps. The hydrant stays for the start."}
