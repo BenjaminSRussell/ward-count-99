@@ -820,3 +820,6 @@
 {"n":820,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north dock. weave left open. 7 steps. The radio coil stays for the start."}
 {"n":821,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Switchyard. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
 {"n":822,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard north dock. Matt keeps the radio coil for the start. 2 steps, weave on the left lane, open."}
+{"n":823,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north dock. weave left open. 3 steps. The radio coil stays for the start."}
+{"n":824,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Switchyard. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":825,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard north dock. Nia keeps the radio coil for the start. 5 steps, weave on the left lane, open."}
