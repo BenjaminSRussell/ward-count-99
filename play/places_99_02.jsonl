@@ -758,3 +758,6 @@
 {"n":758,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south mouth. weave left open. 8 steps. The rebar stays for the start."}
 {"n":759,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Clinic roof. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":760,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof south mouth. Ivo keeps the rebar for the start. 3 steps, weave on the left lane, open."}
+{"n":761,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south mouth. weave left open. 4 steps. The rebar stays for the start."}
+{"n":762,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Clinic roof. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":763,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof south mouth. Bess keeps the rebar for the start. 6 steps, weave on the left lane, open."}
