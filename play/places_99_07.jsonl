@@ -36,3 +36,6 @@
 {"n":36,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east dock. weave left open. 2 steps. The shutter stays for the start."}
 {"n":37,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the east dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":38,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence east dock. Matt keeps the shutter for the start. 4 steps, weave on the left lane, open."}
+{"n":39,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east dock. weave left open. 5 steps. The shutter stays for the start."}
+{"n":40,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":41,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence east dock. Nia keeps the shutter for the start. 7 steps, weave on the left lane, open."}
