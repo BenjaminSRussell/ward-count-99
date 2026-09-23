@@ -622,3 +622,6 @@
 {"n":622,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Switchyard. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
 {"n":623,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west dock. Bess keeps the lamp for the start. 4 steps, weave on the left lane, open."}
 {"n":624,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west dock. weave left open. 5 steps. The lamp stays for the start."}
+{"n":625,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Drydock. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":626,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west dock. Matt keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":627,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west dock. weave left open. 8 steps. The lamp stays for the start."}
