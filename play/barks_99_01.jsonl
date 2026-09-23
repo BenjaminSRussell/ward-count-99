@@ -950,3 +950,6 @@
 {"n":950,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line south mouth. Matt keeps the plywood for the start. 5 steps, weave on the left lane, open."}
 {"n":951,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south mouth. weave left open. 6 steps. The plywood stays for the start."}
 {"n":952,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at High line. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":953,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line south mouth. Nia keeps the plywood for the start. 8 steps, weave on the left lane, open."}
+{"n":954,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south mouth. weave left open. 2 steps. The plywood stays for the start."}
+{"n":955,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at High line. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
