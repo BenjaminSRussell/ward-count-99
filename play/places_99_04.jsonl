@@ -489,3 +489,6 @@
 {"n":489,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west dock. weave left open. 3 steps. The lamp stays for the start."}
 {"n":490,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Ward gate. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
 {"n":491,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate west dock. Bess keeps the lamp for the start. 5 steps, weave on the left lane, open."}
+{"n":492,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west dock. weave left open. 6 steps. The lamp stays for the start."}
+{"n":493,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Kessler alley. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":494,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley west dock. Matt keeps the lamp for the start. 8 steps, weave on the left lane, open."}
