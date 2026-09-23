@@ -611,3 +611,6 @@
 {"n":611,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at High line. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":612,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line north mouth. Ivo keeps the lamp for the start. 4 steps, weave on the left lane, open."}
 {"n":613,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north mouth. weave left open. 5 steps. The lamp stays for the start."}
+{"n":614,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at High line. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":615,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line north mouth. Bess keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":616,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north mouth. weave left open. 8 steps. The lamp stays for the start."}
