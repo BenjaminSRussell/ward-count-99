@@ -611,3 +611,6 @@
 {"n":611,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof west dock. Bess keeps the lamp for the start. 6 steps, weave on the left lane, open."}
 {"n":612,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west dock. weave left open. 7 steps. The lamp stays for the start."}
 {"n":613,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Switchyard. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":614,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard west dock. Matt keeps the lamp for the start. 2 steps, weave on the left lane, open."}
+{"n":615,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west dock. weave left open. 3 steps. The lamp stays for the start."}
+{"n":616,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Switchyard. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
