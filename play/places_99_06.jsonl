@@ -13,3 +13,6 @@
 {"n":13,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east dock. weave left open. 8 steps. The hydrant stays for the start."}
 {"n":14,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":15,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley east dock. Bess keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
+{"n":16,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east dock. weave left open. 4 steps. The hydrant stays for the start."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at the Lot. Nobody past the east dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":18,"kind":"place","name":"the Lot east dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot east dock. Matt keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
