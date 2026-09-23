@@ -106,3 +106,6 @@
 {"n":106,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock south mouth. Matt keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
 {"n":107,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south mouth. weave left open. 8 steps. The hydrant stays for the start."}
 {"n":108,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Drydock. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":109,"kind":"place","name":"Drydock south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south mouth. Nia keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
+{"n":110,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south mouth. weave left open. 4 steps. The hydrant stays for the start."}
+{"n":111,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Drydock. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
