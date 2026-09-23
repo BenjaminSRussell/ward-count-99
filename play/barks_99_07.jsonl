@@ -617,3 +617,6 @@
 {"n":617,"kind":"place","name":"the pier east dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier east dock. Nia keeps the badge door for the start. 2 steps, weave on the left lane, open."}
 {"n":618,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east dock. weave left open. 3 steps. The badge door stays for the start."}
 {"n":619,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at the pier. Nobody past the east dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":620,"kind":"place","name":"the pier east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier east dock. Ivo keeps the badge door for the start. 5 steps, weave on the left lane, open."}
+{"n":621,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east dock. weave left open. 6 steps. The badge door stays for the start."}
+{"n":622,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at the pier. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
