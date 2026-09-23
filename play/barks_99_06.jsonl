@@ -516,3 +516,6 @@
 {"n":516,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley east dock. Ivo keeps the lamp for the start. 7 steps, weave on the left lane, open."}
 {"n":517,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east dock. weave left open. 8 steps. The lamp stays for the start."}
 {"n":518,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Kessler alley. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":519,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley east dock. Bess keeps the lamp for the start. 3 steps, weave on the left lane, open."}
+{"n":520,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east dock. weave left open. 4 steps. The lamp stays for the start."}
+{"n":521,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the Lot. Nobody past the east dock. We start in 5 steps. Weave on the left lane, open."}
