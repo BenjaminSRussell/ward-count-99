@@ -92,3 +92,6 @@
 {"n":92,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north dock. weave left open. 8 steps. The hydrant stays for the start."}
 {"n":93,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Last Light. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":94,"kind":"place","name":"Last Light north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light north dock. Matt keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
+{"n":95,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north dock. weave left open. 4 steps. The hydrant stays for the start."}
+{"n":96,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Last Light. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":97,"kind":"place","name":"Last Light north dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light north dock. Nia keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
