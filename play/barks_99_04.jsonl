@@ -635,3 +635,6 @@
 {"n":635,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock west dock. Bess keeps the lamp for the start. 2 steps, weave on the left lane, open."}
 {"n":636,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west dock. weave left open. 3 steps. The lamp stays for the start."}
 {"n":637,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at High line. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":638,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line west dock. Matt keeps the lamp for the start. 5 steps, weave on the left lane, open."}
+{"n":639,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west dock. weave left open. 6 steps. The lamp stays for the start."}
+{"n":640,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at High line. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
