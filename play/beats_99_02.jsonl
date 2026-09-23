@@ -522,3 +522,6 @@
 {"n":522,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mall court. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":523,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court south mouth. Bess keeps the lamp for the start. 4 steps, weave on the left lane, open."}
 {"n":524,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south mouth. weave left open. 5 steps. The lamp stays for the start."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the Underpass. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":526,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass south mouth. Matt keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":527,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south mouth. weave left open. 8 steps. The lamp stays for the start."}
