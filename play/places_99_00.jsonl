@@ -589,3 +589,6 @@
 {"n":589,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north mouth. weave left open. 2 steps. The lamp stays for the start."}
 {"n":590,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Switchyard. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":591,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north mouth. Bess keeps the lamp for the start. 4 steps, weave on the left lane, open."}
+{"n":592,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north mouth. weave left open. 5 steps. The lamp stays for the start."}
+{"n":593,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Drydock. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":594,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock north mouth. Matt keeps the lamp for the start. 7 steps, weave on the left lane, open."}
