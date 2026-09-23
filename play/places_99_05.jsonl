@@ -446,3 +446,6 @@
 {"n":446,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west dock. weave left open. 8 steps. The drum stays for the start."}
 {"n":447,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Clinic roof. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":448,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof west dock. Ivo keeps the drum for the start. 3 steps, weave on the left lane, open."}
+{"n":449,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west dock. weave left open. 4 steps. The drum stays for the start."}
+{"n":450,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Clinic roof. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":451,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof west dock. Bess keeps the drum for the start. 6 steps, weave on the left lane, open."}
