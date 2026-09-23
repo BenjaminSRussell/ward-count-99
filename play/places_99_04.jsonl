@@ -105,3 +105,6 @@
 {"n":105,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west dock. weave left open. 4 steps. The hydrant stays for the start."}
 {"n":106,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":107,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof west dock. Bess keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
+{"n":108,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west dock. weave left open. 7 steps. The hydrant stays for the start."}
+{"n":109,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Switchyard. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":110,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard west dock. Matt keeps the hydrant for the start. 2 steps, weave on the left lane, open."}
