@@ -587,3 +587,6 @@
 {"n":587,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south mouth. weave left open. 5 steps. The lamp stays for the start."}
 {"n":588,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Clinic roof. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":589,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof south mouth. Nia keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":590,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south mouth. weave left open. 8 steps. The lamp stays for the start."}
+{"n":591,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Clinic roof. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":592,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof south mouth. Ivo keeps the lamp for the start. 3 steps, weave on the left lane, open."}
