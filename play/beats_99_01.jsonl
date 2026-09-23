@@ -565,3 +565,6 @@
 {"n":565,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at the pier. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":566,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier north mouth. Matt keeps the badge door for the start. 6 steps, weave on the left lane, open."}
 {"n":567,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north mouth. weave left open. 7 steps. The badge door stays for the start."}
+{"n":568,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at the pier. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":569,"kind":"place","name":"the pier north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier north mouth. Nia keeps the badge door for the start. 2 steps, weave on the left lane, open."}
+{"n":570,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north mouth. weave left open. 3 steps. The badge door stays for the start."}
