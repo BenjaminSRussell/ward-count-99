@@ -143,3 +143,6 @@
 {"n":143,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Ward gate. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
 {"n":144,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south mouth. Ivo keeps the awning for the start. 2 steps, weave on the left lane, open."}
 {"n":145,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south mouth. weave left open. 3 steps. The awning stays for the start."}
+{"n":146,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Ward gate. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":147,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south mouth. Bess keeps the awning for the start. 5 steps, weave on the left lane, open."}
+{"n":148,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south mouth. weave left open. 6 steps. The awning stays for the start."}
