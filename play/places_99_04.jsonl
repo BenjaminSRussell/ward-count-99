@@ -375,3 +375,6 @@
 {"n":375,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west dock. weave left open. 8 steps. The crate stays for the start."}
 {"n":376,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at the Underpass. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":377,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass west dock. Nia keeps the crate for the start. 3 steps, weave on the left lane, open."}
+{"n":378,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west dock. weave left open. 4 steps. The crate stays for the start."}
+{"n":379,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at the Underpass. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":380,"kind":"place","name":"the Underpass west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass west dock. Ivo keeps the crate for the start. 6 steps, weave on the left lane, open."}
