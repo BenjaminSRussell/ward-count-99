@@ -464,3 +464,6 @@
 {"n":464,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at High line. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":465,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south mouth. Nia keeps the drum for the start. 8 steps, weave on the left lane, open."}
 {"n":466,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south mouth. weave left open. 2 steps. The drum stays for the start."}
+{"n":467,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at High line. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":468,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south mouth. Ivo keeps the drum for the start. 4 steps, weave on the left lane, open."}
+{"n":469,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south mouth. weave left open. 5 steps. The drum stays for the start."}
