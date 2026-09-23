@@ -721,3 +721,6 @@
 {"n":721,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south mouth. weave left open. 5 steps. The radio coil stays for the start."}
 {"n":722,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Mast yard. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":723,"kind":"place","name":"Mast yard south mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south mouth. Bess keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
+{"n":724,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south mouth. weave left open. 8 steps. The radio coil stays for the start."}
+{"n":725,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Last Light. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":726,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light south mouth. Matt keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
