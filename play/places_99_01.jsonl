@@ -714,3 +714,6 @@
 {"n":714,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north mouth. weave left open. 7 steps. The radio coil stays for the start."}
 {"n":715,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Last Light. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
 {"n":716,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light north mouth. Ivo keeps the radio coil for the start. 2 steps, weave on the left lane, open."}
+{"n":717,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north mouth. weave left open. 3 steps. The radio coil stays for the start."}
+{"n":718,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Last Light. Nobody past the north mouth. We start in 4 steps. Weave on the left lane, open."}
+{"n":719,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light north mouth. Bess keeps the radio coil for the start. 5 steps, weave on the left lane, open."}
