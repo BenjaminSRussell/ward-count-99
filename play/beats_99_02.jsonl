@@ -405,3 +405,6 @@
 {"n":405,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the pier. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":406,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier south mouth. Matt keeps the crate for the start. 6 steps, weave on the left lane, open."}
 {"n":407,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south mouth. weave left open. 7 steps. The crate stays for the start."}
+{"n":408,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at the pier. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":409,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier south mouth. Nia keeps the crate for the start. 2 steps, weave on the left lane, open."}
+{"n":410,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south mouth. weave left open. 3 steps. The crate stays for the start."}
