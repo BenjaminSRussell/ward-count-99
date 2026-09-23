@@ -798,3 +798,6 @@
 {"n":798,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at High line. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":799,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south mouth. Bess keeps the rebar for the start. 7 steps, weave on the left lane, open."}
 {"n":800,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south mouth. weave left open. 8 steps. The rebar stays for the start."}
+{"n":801,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Ward gate. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":802,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south mouth. Matt keeps the rope for the start. 3 steps, weave on the left lane, open."}
+{"n":803,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south mouth. weave left open. 4 steps. The rope stays for the start."}
