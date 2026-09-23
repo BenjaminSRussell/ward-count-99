@@ -511,3 +511,6 @@
 {"n":511,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence south mouth. Bess keeps the lamp for the start. 6 steps, weave on the left lane, open."}
 {"n":512,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south mouth. weave left open. 7 steps. The lamp stays for the start."}
 {"n":513,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Mall court. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":514,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court south mouth. Matt keeps the lamp for the start. 2 steps, weave on the left lane, open."}
+{"n":515,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south mouth. weave left open. 3 steps. The lamp stays for the start."}
+{"n":516,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Mall court. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
