@@ -187,3 +187,6 @@
 {"n":187,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north dock. Bess keeps the barrel for the start. 5 steps, weave on the left lane, open."}
 {"n":188,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north dock. weave left open. 6 steps. The barrel stays for the start."}
 {"n":189,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Kessler alley. Nobody past the north dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":190,"kind":"place","name":"Kessler alley north dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley north dock. Matt keeps the barrel for the start. 8 steps, weave on the left lane, open."}
+{"n":191,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north dock. weave left open. 2 steps. The barrel stays for the start."}
+{"n":192,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Kessler alley. Nobody past the north dock. We start in 3 steps. Weave on the left lane, open."}
