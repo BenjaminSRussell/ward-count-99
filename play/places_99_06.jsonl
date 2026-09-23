@@ -403,3 +403,6 @@
 {"n":403,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east dock. weave left open. 6 steps. The crate stays for the start."}
 {"n":404,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Mast yard. Nobody past the east dock. We start in 7 steps. Weave on the left lane, open."}
 {"n":405,"kind":"place","name":"Mast yard east dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east dock. Nia keeps the crate for the start. 8 steps, weave on the left lane, open."}
+{"n":406,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east dock. weave left open. 2 steps. The crate stays for the start."}
+{"n":407,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Mast yard. Nobody past the east dock. We start in 3 steps. Weave on the left lane, open."}
+{"n":408,"kind":"place","name":"Mast yard east dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east dock. Ivo keeps the crate for the start. 4 steps, weave on the left lane, open."}
