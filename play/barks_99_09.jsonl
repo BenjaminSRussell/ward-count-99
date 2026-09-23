@@ -378,3 +378,6 @@
 {"n":378,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot north dock. Matt keeps the drum for the start. 6 steps, weave on the left lane, open."}
 {"n":379,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north dock. weave left open. 7 steps. The drum stays for the start."}
 {"n":380,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at the Lot. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":381,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot north dock. Nia keeps the drum for the start. 2 steps, weave on the left lane, open."}
+{"n":382,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north dock. weave left open. 3 steps. The drum stays for the start."}
+{"n":383,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at the Lot. Nobody past the north dock. We start in 4 steps. Weave on the left lane, open."}
