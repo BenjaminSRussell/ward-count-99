@@ -135,3 +135,6 @@
 {"n":135,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east dock. Bess keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
 {"n":136,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east dock. weave left open. 5 steps. The hydrant stays for the start."}
 {"n":137,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Drydock. Nobody past the east dock. We start in 6 steps. Weave on the left lane, open."}
+{"n":138,"kind":"place","name":"Drydock east dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock east dock. Matt keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
+{"n":139,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east dock. weave left open. 8 steps. The hydrant stays for the start."}
+{"n":140,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Drydock. Nobody past the east dock. We start in 2 steps. Weave on the left lane, open."}
