@@ -295,3 +295,6 @@
 {"n":295,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south mouth. Bess keeps the barrel for the start. 7 steps, weave on the left lane, open."}
 {"n":296,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south mouth. weave left open. 8 steps. The barrel stays for the start."}
 {"n":297,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Ward gate. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":298,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south mouth. Matt keeps the crate for the start. 3 steps, weave on the left lane, open."}
+{"n":299,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south mouth. weave left open. 4 steps. The crate stays for the start."}
+{"n":300,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Ward gate. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
