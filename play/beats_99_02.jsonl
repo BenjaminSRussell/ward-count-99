@@ -699,3 +699,6 @@
 {"n":699,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the Underpass. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":700,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south mouth. Ivo keeps the rebar for the start. 6 steps, weave on the left lane, open."}
 {"n":701,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south mouth. weave left open. 7 steps. The rebar stays for the start."}
+{"n":702,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Underpass. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":703,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass south mouth. Bess keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":704,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south mouth. weave left open. 3 steps. The rebar stays for the start."}
