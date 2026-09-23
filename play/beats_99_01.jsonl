@@ -355,3 +355,6 @@
 {"n":355,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at the Underpass. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":356,"kind":"place","name":"the Underpass north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass north mouth. Ivo keeps the drum for the start. 6 steps, weave on the left lane, open."}
 {"n":357,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north mouth. weave left open. 7 steps. The drum stays for the start."}
+{"n":358,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at the Underpass. Nobody past the north mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":359,"kind":"place","name":"the Underpass north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass north mouth. Bess keeps the drum for the start. 2 steps, weave on the left lane, open."}
+{"n":360,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north mouth. weave left open. 3 steps. The drum stays for the start."}
