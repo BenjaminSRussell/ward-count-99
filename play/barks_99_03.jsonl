@@ -399,3 +399,6 @@
 {"n":399,"kind":"place","name":"Last Light south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light south mouth. Bess keeps the drum for the start. 5 steps, weave on the left lane, open."}
 {"n":400,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south mouth. weave left open. 6 steps. The drum stays for the start."}
 {"n":401,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at South stair. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":402,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair south mouth. Matt keeps the drum for the start. 8 steps, weave on the left lane, open."}
+{"n":403,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south mouth. weave left open. 2 steps. The drum stays for the start."}
+{"n":404,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at South stair. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
