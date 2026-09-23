@@ -972,3 +972,6 @@
 {"n":972,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Ward gate. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":973,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate south mouth. Nia keeps the shutter for the start. 6 steps, weave on the left lane, open."}
 {"n":974,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south mouth. weave left open. 7 steps. The shutter stays for the start."}
+{"n":975,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Ward gate. Nobody past the south mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":976,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate south mouth. Ivo keeps the shutter for the start. 2 steps, weave on the left lane, open."}
+{"n":977,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south mouth. weave left open. 3 steps. The shutter stays for the start."}
