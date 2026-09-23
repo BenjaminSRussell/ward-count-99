@@ -333,3 +333,6 @@
 {"n":333,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north dock. Nia keeps the awning for the start. 3 steps, weave on the left lane, open."}
 {"n":334,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north dock. weave left open. 4 steps. The awning stays for the start."}
 {"n":335,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Drydock. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":336,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north dock. Ivo keeps the awning for the start. 6 steps, weave on the left lane, open."}
+{"n":337,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north dock. weave left open. 7 steps. The awning stays for the start."}
+{"n":338,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Drydock. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
