@@ -816,3 +816,6 @@
 {"n":816,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
 {"n":817,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north dock. weave left open. 4 steps. The radio coil stays for the start."}
 {"n":818,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Clinic roof. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":819,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof north dock. Bess keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
+{"n":820,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north dock. weave left open. 7 steps. The radio coil stays for the start."}
+{"n":821,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Switchyard. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
