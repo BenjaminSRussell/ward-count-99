@@ -67,3 +67,6 @@
 {"n":67,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north mouth. weave left open. 5 steps. The hydrant stays for the start."}
 {"n":68,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Clinic roof. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":69,"kind":"place","name":"Clinic roof north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof north mouth. Nia keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
+{"n":70,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north mouth. weave left open. 8 steps. The hydrant stays for the start."}
+{"n":71,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Clinic roof. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":72,"kind":"place","name":"Clinic roof north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof north mouth. Ivo keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
