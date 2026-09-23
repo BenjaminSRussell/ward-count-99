@@ -403,3 +403,6 @@
 {"n":403,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south mouth. weave left open. 2 steps. The drum stays for the start."}
 {"n":404,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at South stair. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":405,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair south mouth. Nia keeps the drum for the start. 4 steps, weave on the left lane, open."}
+{"n":406,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south mouth. weave left open. 5 steps. The drum stays for the start."}
+{"n":407,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at South stair. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":408,"kind":"place","name":"South stair south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south mouth. Ivo keeps the drum for the start. 7 steps, weave on the left lane, open."}
