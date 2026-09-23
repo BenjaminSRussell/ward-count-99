@@ -564,3 +564,6 @@
 {"n":564,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence north dock. Ivo keeps the badge door for the start. 3 steps, weave on the left lane, open."}
 {"n":565,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north dock. weave left open. 4 steps. The badge door stays for the start."}
 {"n":566,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":567,"kind":"place","name":"Stockyard fence north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence north dock. Bess keeps the badge door for the start. 6 steps, weave on the left lane, open."}
+{"n":568,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north dock. weave left open. 7 steps. The badge door stays for the start."}
+{"n":569,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Mall court. Nobody past the north dock. We start in 8 steps. Weave on the left lane, open."}
