@@ -765,3 +765,6 @@
 {"n":765,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof south mouth. Nia keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
 {"n":766,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south mouth. weave left open. 8 steps. The radio coil stays for the start."}
 {"n":767,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Clinic roof. Nobody past the south mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":768,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof south mouth. Ivo keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
+{"n":769,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south mouth. weave left open. 4 steps. The radio coil stays for the start."}
+{"n":770,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Clinic roof. Nobody past the south mouth. We start in 5 steps. Weave on the left lane, open."}
