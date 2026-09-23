@@ -184,3 +184,6 @@
 {"n":184,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at the Underpass. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":185,"kind":"place","name":"the Underpass north mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass north mouth. Nia keeps the awning for the start. 3 steps, weave on the left lane, open."}
 {"n":186,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north mouth. weave left open. 4 steps. The awning stays for the start."}
+{"n":187,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at the Underpass. Nobody past the north mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":188,"kind":"place","name":"the Underpass north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass north mouth. Ivo keeps the awning for the start. 6 steps, weave on the left lane, open."}
+{"n":189,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north mouth. weave left open. 7 steps. The awning stays for the start."}
