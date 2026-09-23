@@ -425,3 +425,6 @@
 {"n":425,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier west dock. Nia keeps the crate for the start. 2 steps, weave on the left lane, open."}
 {"n":426,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west dock. weave left open. 3 steps. The crate stays for the start."}
 {"n":427,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at the pier. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
+{"n":428,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier west dock. Ivo keeps the crate for the start. 5 steps, weave on the left lane, open."}
+{"n":429,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west dock. weave left open. 6 steps. The crate stays for the start."}
+{"n":430,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at the pier. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
