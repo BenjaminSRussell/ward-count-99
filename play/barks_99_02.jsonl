@@ -499,3 +499,6 @@
 {"n":499,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south mouth. Bess keeps the lamp for the start. 8 steps, weave on the left lane, open."}
 {"n":500,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south mouth. weave left open. 2 steps. The lamp stays for the start."}
 {"n":501,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the south mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":502,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence south mouth. Matt keeps the lamp for the start. 4 steps, weave on the left lane, open."}
+{"n":503,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south mouth. weave left open. 5 steps. The lamp stays for the start."}
+{"n":504,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Stockyard fence. Nobody past the south mouth. We start in 6 steps. Weave on the left lane, open."}
