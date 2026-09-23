@@ -240,3 +240,6 @@
 {"n":240,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the Underpass. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":241,"kind":"place","name":"the Underpass north dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Underpass north dock. Nia keeps the barrel for the start. 3 steps, weave on the left lane, open."}
 {"n":242,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north dock. weave left open. 4 steps. The barrel stays for the start."}
+{"n":243,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at the Underpass. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":244,"kind":"place","name":"the Underpass north dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass north dock. Ivo keeps the barrel for the start. 6 steps, weave on the left lane, open."}
+{"n":245,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north dock. weave left open. 7 steps. The barrel stays for the start."}
