@@ -904,3 +904,6 @@
 {"n":904,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Last Light. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":905,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light west dock. Nia keeps the rope for the start. 6 steps, weave on the left lane, open."}
 {"n":906,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west dock. weave left open. 7 steps. The rope stays for the start."}
+{"n":907,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Last Light. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":908,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light west dock. Ivo keeps the rope for the start. 2 steps, weave on the left lane, open."}
+{"n":909,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west dock. weave left open. 3 steps. The rope stays for the start."}
