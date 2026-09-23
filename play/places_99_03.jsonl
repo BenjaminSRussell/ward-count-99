@@ -775,3 +775,6 @@
 {"n":775,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south mouth. weave left open. 3 steps. The radio coil stays for the start."}
 {"n":776,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Switchyard. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":777,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard south mouth. Nia keeps the radio coil for the start. 5 steps, weave on the left lane, open."}
+{"n":778,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south mouth. weave left open. 6 steps. The radio coil stays for the start."}
+{"n":779,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Switchyard. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":780,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard south mouth. Ivo keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
