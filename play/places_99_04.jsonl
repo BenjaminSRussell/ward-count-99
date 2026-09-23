@@ -183,3 +183,6 @@
 {"n":183,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west dock. weave left open. 5 steps. The barrel stays for the start."}
 {"n":184,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the west dock. We start in 6 steps. Weave on the left lane, open."}
 {"n":185,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence west dock. Nia keeps the barrel for the start. 7 steps, weave on the left lane, open."}
+{"n":186,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west dock. weave left open. 8 steps. The barrel stays for the start."}
+{"n":187,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Stockyard fence. Nobody past the west dock. We start in 2 steps. Weave on the left lane, open."}
+{"n":188,"kind":"place","name":"Stockyard fence west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence west dock. Ivo keeps the barrel for the start. 3 steps, weave on the left lane, open."}
