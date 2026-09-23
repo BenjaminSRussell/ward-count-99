@@ -335,3 +335,6 @@
 {"n":335,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at the Lot. Nobody past the south mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":336,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south mouth. Ivo keeps the drum for the start. 5 steps, weave on the left lane, open."}
 {"n":337,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south mouth. weave left open. 6 steps. The drum stays for the start."}
+{"n":338,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at the Lot. Nobody past the south mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":339,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south mouth. Bess keeps the drum for the start. 8 steps, weave on the left lane, open."}
+{"n":340,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south mouth. weave left open. 2 steps. The drum stays for the start."}
