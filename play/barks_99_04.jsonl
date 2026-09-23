@@ -338,3 +338,6 @@
 {"n":338,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot west dock. Matt keeps the crate for the start. 6 steps, weave on the left lane, open."}
 {"n":339,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west dock. weave left open. 7 steps. The crate stays for the start."}
 {"n":340,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at the Lot. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":341,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west dock. Nia keeps the crate for the start. 2 steps, weave on the left lane, open."}
+{"n":342,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west dock. weave left open. 3 steps. The crate stays for the start."}
+{"n":343,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at the Lot. Nobody past the west dock. We start in 4 steps. Weave on the left lane, open."}
