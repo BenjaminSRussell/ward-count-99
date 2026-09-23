@@ -85,3 +85,6 @@
 {"n":85,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at the pier. Nobody past the west dock. We start in 5 steps. Weave on the left lane, open."}
 {"n":86,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier west dock. Matt keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
 {"n":87,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west dock. weave left open. 7 steps. The hydrant stays for the start."}
+{"n":88,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at the pier. Nobody past the west dock. We start in 8 steps. Weave on the left lane, open."}
+{"n":89,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier west dock. Nia keeps the hydrant for the start. 2 steps, weave on the left lane, open."}
+{"n":90,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west dock. weave left open. 3 steps. The hydrant stays for the start."}
