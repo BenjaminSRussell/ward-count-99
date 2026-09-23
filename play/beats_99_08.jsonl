@@ -702,3 +702,6 @@
 {"n":702,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Kessler alley. Nobody past the north dock. We start in 2 steps. Weave on the left lane, open."}
 {"n":703,"kind":"place","name":"Kessler alley north dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north dock. Bess keeps the rebar for the start. 3 steps, weave on the left lane, open."}
 {"n":704,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north dock. weave left open. 4 steps. The rebar stays for the start."}
+{"n":705,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at the Lot. Nobody past the north dock. We start in 5 steps. Weave on the left lane, open."}
+{"n":706,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot north dock. Matt keeps the rebar for the start. 6 steps, weave on the left lane, open."}
+{"n":707,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north dock. weave left open. 7 steps. The rebar stays for the start."}
