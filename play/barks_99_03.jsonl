@@ -924,3 +924,6 @@
 {"n":924,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier west dock. Ivo keeps the plywood for the start. 5 steps, weave on the left lane, open."}
 {"n":925,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west dock. weave left open. 6 steps. The plywood stays for the start."}
 {"n":926,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at the pier. Nobody past the west dock. We start in 7 steps. Weave on the left lane, open."}
+{"n":927,"kind":"place","name":"the pier west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier west dock. Bess keeps the plywood for the start. 8 steps, weave on the left lane, open."}
+{"n":928,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west dock. weave left open. 2 steps. The plywood stays for the start."}
+{"n":929,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Clinic roof. Nobody past the west dock. We start in 3 steps. Weave on the left lane, open."}
